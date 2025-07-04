@@ -1,0 +1,1001 @@
+customer_id,customer_name,email,signup_date,last_purchase_date,purchase_amount,product_category,country
+145,Ryan Perez,ryan.perez@example.com,04-29-2025,21/03/2025,133.82,Fashion,france
+328, Rachel Donovan ,,07/08/2024,09-11-2024,210.23,Electronics,France
+358,CHRISTOPHER HARRIS,christopher.harris@example.com,13/06/2025,2024-08-24,288.82,Electronics,uk
+435,Patricia Caldwell,patricia.caldwell@example.com,17/06/2025,15/02/2025,312.42,Fashion,UK
+429,Lori Nelson,lorinelson@@example.com,2024-10-30,08-25-2024,159.17,Fashion,france
+183,Jason Bryant,jason.bryant@example.com,2024/08/01,11/06/2025,197.21,Fashion,United States
+328,Sara Wang,sara.wang@example.com,2025-03-08,2023-13-40,335.26,Electronics,usa
+487,chris reid,chris.reid@example.com,2025/03/30,09-27-2024,325.56,Hom,France
+494,Julie Vargas,julievargas@@example.com,16/07/2024,2025/06/01,112.1,Electronics,United Kingdom
+193,CLAYTON COLEMAN,clayton.coleman@example.com,2024/09/14,2025/03/13,380.44,home,USA
+214, Andrew Miller ,andrew.miller@example.com,2023-13-40,08/06/2025,427.61,electronics,United Kingdom
+450,MARK NICHOLS,mark.nichols@example.com,2025/06/03,,-32.55,Fashion,france
+252,Tracy Jenkins,tracy.jenkins@example.com,2024-09-13,,80.46,Fashion,USA
+243,Stephanie Ingram,stephanie.ingram@example.com,2024/12/07,11-29-2024,8624.18,Electronics,France
+444,Scott Michael,scott.michael@example.com,03-13-2025,02-03-2025,362.98,Electronics,france
+,Jason Gray,jason.gray@example.com,08-08-2024,12/12/2024,321.54,Electronics,FRA
+435,GABRIEL JACKSON,gabriel.jackson@example.com,2024-10-14,,259.4,fashion,United Kingdom
+173,Angela Woods,angela.woods@example.com,10/03/2025,05-03-2025,273.81,Fashion,UK
+270,Martin Walker,martin.walker@example.com,2025-02-19,05-30-2025,356.85,Home,United States
+,AMANDA BLAIR,amanda.blair@example.com,2025/03/27,2024-09-21,354.76,Electronic,
+163, Gina Jones ,gina.jones@example.com,02-05-2025,12/12/2024,427.15,Electronics,USA
+358,mary martinez md,mary.martinez.md@example.com,11/03/2025,01/11/2024,190.17,Fashion,France
+403,Christy Howard,,29/01/2025,08-22-2024,178.6,Electronics,france
+210,JOSHUA WARREN,joshua.warren@example.com,08-05-2024,03-11-2025,195.47,Home,France
+306,Brett Brady,brett.brady@example.com,2024/11/28,11-19-2024,326.3,Home,UK
+407,Leah Garcia,leahgarcia@@example.com,2025/04/15,2025-01-16,398.37,electronics,uk
+195,Sandra Castillo,sandra.castillo@example.com,2025/05/18,08-08-2024,42.15,Electronics,usa
+486,Shelly Bowers,shelly.bowers@example.com,2024-07-16,27/03/2025,78.06,Fashion,United Kingdom
+,Thomas Haas,thomashaas@@example.com,2025/05/23,2023-13-40,390.45,Electronics,United States
+049,Stephanie Martinez,stephanie.martinez@example.com,21/03/2025,2023-13-40,78.08,Home,France
+124,Rebecca Martin,rebecca.martin@example.com,2025-06-16,2024-11-17,193.4,Electronics,UK
+070,Nicholas Stokes,nicholas.stokes@example.com,05-24-2025,07/04/2025,233.66,Fashio,United States
+170,Timothy Gray,timothy.gray@example.com,2025-02-04,07/01/2025,258.49,Home,uk
+190,ALICIA PRINCE,alicia.prince@example.com,2024/08/23,2025-05-14,273.13,Home,FRA
+299,James Obrien,james.obrien@example.com,2024-11-12,2025-03-02,7137.8,Fashion,uk
+370,Max Day,max.day@example.com,2025/02/24,04/10/2024,453.47,Home,uk
+274,Christine Turner,christine.turner@example.com,2024/07/03,2024/07/17,161.5,Home,usa
+494,Douglas Watts,douglas.watts@example.com,27/12/2024,2024-12-12,68.94,Fashion,france
+247,Deanna Sandoval,deanna.sandoval@example.com,2025/04/19,05-03-2025,73.35,Home,usa
+380,Jonathan Lynch,jonathan.lynch@example.com,2024/07/25,2024/11/29,344.61,Home,UK
+069,francisco cameron,francisco.cameron@example.com,2025-04-01,05-28-2025,445.0,Electronics,United States
+360, Heather Fleming ,,2023-13-40,,366.07,Home,usa
+357,luis sanchez,luis.sanchez@example.com,13/07/2024,15/03/2025,145.68,Fashion,france
+403, Sonya Guzman ,sonya.guzman@example.com,2025/03/09,2024-11-08,101.82,Fashion,United States
+102,Rebecca Andrews,rebecca.andrews@example.com,2025-04-20,2025/03/22,399.86,Electronics,france
+061,MR. ANTHONY ROGERS,mr..anthony.rogers@example.com,2024/10/16,07/05/2025,101.19,Fashion,FRA
+426,Jamie Williamson,jamie.williamson@example.com,2025/03/01,2024-12-10,96.45,Electronics,usa
+306,Pamela Stewart,pamela.stewart@example.com,08-25-2024,2023-13-40,326.19,Home,FRA
+137,LAURA TURNER,laura.turner@example.com,11/11/2024,25/09/2024,311.94,Fashion,FRA
+135,Nancy Acevedo,nancy.acevedo@example.com,10/04/2025,2024/11/08,11.26,Hom,USA
+277,Dr. Allison Stanley,dr..allison.stanley@example.com,24/06/2025,22/06/2025,-21.8,Fashion,FRA
+064,Gloria Peters,gloria.peters@example.com,2024-08-20,2024/07/31,74.25,Electronics,United States
+238,John Ballard,john.ballard@example.com,12-31-2024,2024-08-16,322.68,home,france
+457,john nichols,john.nichols@example.com,2024-09-14,,315.21,Electronics,USA
+468,REGINA BREWER,regina.brewer@example.com,2025/01/08,04/10/2024,485.66,Home,UK
+443,Deborah Anderson,deborah.anderson@example.com,2024/11/21,01-09-2025,381.53,Fashion,france
+221,Mark Adams,mark.adams@example.com,2023-13-40,16/11/2024,299.64,Home,france
+448,CHRISTINA MORSE,christina.morse@example.com,2025-06-16,09-06-2024,198.9,Fashion,United Kingdom
+336,Joseph Santos,joseph.santos@example.com,02-16-2025,03-24-2025,302.11,Home,usa
+216,Brooke Gates,brooke.gates@example.com,2025/04/23,30/10/2024,335.27,Electronics,france
+229,Roy Summers,roy.summers@example.com,2023-13-40,07-13-2024,197.11,Fashion,France
+491,christopher parker,christopher.parker@example.com,2025-02-10,2025-02-10,138.5,Electronics,USA
+144, Andres Turner ,andres.turner@example.com,2024/09/18,22/01/2025,467.11,Electronics,France
+411,Reginald Colon,reginald.colon@example.com,2024/11/20,2024-11-15,458.93,Home,uk
+462,Andrew Johnson,andrew.johnson@example.com,23/07/2024,,9613.9,Fashion,UK
+388,Jose Pacheco,josepacheco@@example.com,06/07/2024,2024/10/09,499.77,Fashio,FRA
+125,KAREN HICKS,karen.hicks@example.com,2023-13-40,2025/05/29,142.01,Electronics,United States
+111,Christian Martinez,christian.martinez@example.com,23/10/2024,2024/09/13,238.83,home,uk
+161,Jordan Hall,jordan.hall@example.com,2023-13-40,2024-12-13,291.7,fashion,FRA
+487,melody espinoza,melody.espinoza@example.com,11/06/2025,2025-06-23,365.88,Fashion,FRA
+486,Jared Wilson,jared.wilson@example.com,12-24-2024,12/03/2025,83.98,Home,france
+070,joseph vega,joseph.vega@example.com,2024-08-12,13/03/2025,331.83,Fashion,France
+500,Robert Morris,robert.morris@example.com,2025/04/07,03-25-2025,50.01,Home,United Kingdom
+498, Crystal Jones ,crystal.jones@example.com,2025-04-19,2025-01-20,84.53,Fashio,USA
+336,Jeremy Mcdonald,jeremy.mcdonald@example.com,20/09/2024,2025/04/03,183.97,home,usa
+287,Rachel Black,rachelblack@@example.com,08-28-2024,09-21-2024,397.95,Home,France
+077,Kirk Stephens,kirk.stephens@example.com,21/10/2024,04-08-2025,367.84,Electronics,uk
+388,GABRIELLE SCHROEDER,gabrielle.schroeder@example.com,2024-12-05,09-07-2024,241.08,Fashion,France
+423,joseph vasquez,joseph.vasquez@example.com,2025/01/12,05-25-2025,53.42,Home,france
+373,Brandi Phillips,brandi.phillips@example.com,07/03/2025,2025-04-23,489.06,Fashion,France
+354, Crystal Alvarez ,crystal.alvarez@example.com,2024/09/09,2025/05/29,302.69,Fashion,United States
+008,Erica Johnson,ericajohnson@@example.com,2025/06/23,08-17-2024,379.42,Fashion,United Kingdom
+381,Dennis Morris,dennis.morris@example.com,2024/10/20,2025-05-18,87.95,Home,usa
+035,Terri Perry,terri.perry@example.com,2024/09/28,2025/03/24,295.98,Fashion,USA
+417,Chris Gray,chris.gray@example.com,23/03/2025,15/10/2024,260.97,home,usa
+234,Steven Baker,steven.baker@example.com,07-22-2024,16/07/2024,60.1,Home,United States
+498,Mr. Matthew Morgan MD,mr..matthew.morgan.md@example.com,2025-01-31,2025-06-14,334.84,Fashion,uk
+132,Maria Johnson,maria.johnson@example.com,28/11/2024,10-02-2024,166.99,Home,FRA
+130,Robert Simpson,robert.simpson@example.com,03-19-2025,14/01/2025,241.99,Electronic,FRA
+272,Edward Wilkins,edward.wilkins@example.com,2024-12-30,,394.26,Home,USA
+197,Dr. Larry Miranda,dr..larry.miranda@example.com,04-01-2025,14/01/2025,9515.81,Electronics,USA
+403,jose wright,jose.wright@example.com,11-11-2024,2025-04-06,424.94,Fashion,United States
+279,Zachary Velasquez,zachary.velasquez@example.com,2024/12/04,07-20-2024,439.74,Fashion,United States
+362,Joel Hart,joel.hart@example.com,2024/12/19,2024/11/20,98.2,Electronics,
+381,Nancy Hogan,,22/06/2025,,407.83,Home,
+201,Daniel Bright,daniel.bright@example.com,2024/10/10,,369.78,Home,FRA
+413, Kimberly Byrd ,kimberly.byrd@example.com,12-29-2024,24/02/2025,221.26,Electronics,FRA
+116,rachel lee,rachel.lee@example.com,01-04-2025,06/12/2024,211.79,Home,uk
+, Jamie Smith ,jamie.smith@example.com,2024/08/09,03-21-2025,143.25,Home,usa
+153,April Lewis,april.lewis@example.com,2024-11-08,,158.43,Fashion,
+475,David Rivera,david.rivera@example.com,2025-02-17,2024/07/06,159.91,Electronics,usa
+051,Karina Scott,karinascott@@example.com,03-25-2025,2025-05-09,470.16,Home,france
+030,Paul Ortiz,paul.ortiz@example.com,2025/04/22,2024-12-12,307.4,Fashion,uk
+365, Eric Salazar ,eric.salazar@example.com,10/10/2024,17/01/2025,56.66,Fashion,France
+361, Stephanie Harper ,stephanie.harper@example.com,2024/11/08,07/02/2025,261.65,Fashion,United States
+312,Jerry Gilmore,jerry.gilmore@example.com,2025-04-02,05-08-2025,187.21,Electronics,USA
+,PAUL WILLIAMSON,paul.williamson@example.com,2025/07/02,2024-10-19,224.53,Home,UK
+219,Scott Ashley,scott.ashley@example.com,2024-09-28,2024/07/24,416.84,Electronics,uk
+287,alexis nichols,alexis.nichols@example.com,2025/05/11,30/06/2025,190.14,Fashion,uk
+060,Wesley Douglas,wesleydouglas@@example.com,2025/02/25,2024-10-11,179.55,Fashion,United States
+405,ethan marsh,ethan.marsh@example.com,2025-04-25,11-14-2024,212.31,Home,uk
+358,Christopher Anderson DDS,christopher.anderson.dds@example.com,07-03-2024,,264.98,Home,france
+089,Karen Evans,karen.evans@example.com,28/04/2025,01-01-2025,450.24,Home,usa
+093,Cameron Martinez,cameron.martinez@example.com,2025-01-23,2024-07-29,332.75,Fashion,uk
+474,Jeffrey Martin,jeffrey.martin@example.com,2024-09-04,11/07/2024,339.83,Fashion,United Kingdom
+430,Alex Krause,alex.krause@example.com,01-06-2025,12/09/2024,317.68,Fashion,
+138, Luis Gonzalez ,luis.gonzalez@example.com,2025/06/27,26/09/2024,344.36,fashion,United States
+331,APRIL FIELDS,aprilfields@@example.com,2025-02-09,2025-03-31,496.74,Fashio,USA
+137,Christopher Wiley,christopher.wiley@example.com,2024/09/27,02/04/2025,290.83,Fashion,UK
+339,Rachel Moore,rachelmoore@@example.com,01-02-2025,11-22-2024,441.03,Electronics,United Kingdom
+329, Nicole Williams ,nicolewilliams@@example.com,2024/08/27,07-07-2024,277.2,Electronics,United States
+463,Michael Fields,michael.fields@example.com,2024-11-15,2023-13-40,13.79,Electronics,USA
+151,michael klein,,2025/03/05,,175.11,Home,USA
+060,Nicole Wood,nicole.wood@example.com,2025-03-24,04-11-2025,31.21,Electronics,UK
+484,Cody Huffman,cody.huffman@example.com,05/12/2024,09-24-2024,438.88,Fashion,
+348,Michelle Wright,michelle.wright@example.com,04/05/2025,2023-13-40,436.91,home,usa
+064,William Gardner,william.gardner@example.com,2024/11/12,01/06/2025,56.44,Home,UK
+296,Sarah Irwin,sarahirwin@@example.com,2023-13-40,2024-11-06,408.07,Fashion,FRA
+001,ADAM FRANKLIN,adam.franklin@example.com,10-12-2024,11/10/2024,152.25,Electronics,USA
+154,JOSHUA HOBBS,joshua.hobbs@example.com,06-26-2025,2024/10/16,172.26,Home,United States
+382,Anita Leonard,anita.leonard@example.com,24/02/2025,26/01/2025,318.33,Electronics,france
+485,Christopher Pacheco,christopher.pacheco@example.com,2025/04/12,2025-01-13,385.41,Fashion,usa
+407,Connie Johnson,connie.johnson@example.com,30/08/2024,,160.2,Fashion,France
+242,Paul Schmidt,paul.schmidt@example.com,2024-12-14,07/07/2024,229.14,Electronics,United Kingdom
+100,Jeff Andrews,jeff.andrews@example.com,05-06-2025,2024/07/16,48.16,Electronics,FRA
+165,Haley Black,haley.black@example.com,08-18-2024,04/01/2025,414.09,Home,United States
+314,Scott Jones,scott.jones@example.com,04-12-2025,2025-04-16,227.18,Fashion,uk
+127,Andrew Ibarra,andrew.ibarra@example.com,2025/02/15,,67.51,Electronics,usa
+155,Krista Reyes,krista.reyes@example.com,11-29-2024,2024/09/15,81.53,Electronics,United Kingdom
+,Chelsea Carter,chelsea.carter@example.com,11/03/2025,07-03-2025,277.0,Home,france
+131,Dylan Kelly,dylan.kelly@example.com,06-11-2025,14/10/2024,451.21,Home,USA
+002, alex simmons ,alex.simmons@example.com,16/12/2024,2023-13-40,13.69,home,United Kingdom
+086,Tonya Montgomery,tonya.montgomery@example.com,2025-01-18,2024/07/19,1427.9,Fashion,France
+162,Natasha Harper,natasha.harper@example.com,03-25-2025,06-15-2025,46.72,Electronics,United Kingdom
+321,Keith Castillo,keith.castillo@example.com,10-26-2024,26/09/2024,348.28,Electronics,france
+011,ERIN JACOBS,erin.jacobs@example.com,27/08/2024,2025/06/24,497.96,Fashion,France
+185,Patrick Higgins,patrick.higgins@example.com,2025/05/01,2024/08/26,82.74,Fashion,usa
+350,Alicia Molina,aliciamolina@@example.com,2024-11-23,2024-09-27,121.42,Fashion,United States
+406, Erika Booker ,erika.booker@example.com,2025/03/27,09-08-2024,312.49,fashion,france
+407,Nicholas Wolfe,nicholas.wolfe@example.com,07/05/2025,11-10-2024,114.07,Electronics,United Kingdom
+323,Rebecca Carlson,rebecca.carlson@example.com,2024-09-21,,7933.26,Fashion,UK
+203,Geoffrey Curtis,geoffrey.curtis@example.com,2024-09-29,2024/08/19,75.31,Home,France
+359,Jeffrey Phillips,jeffrey.phillips@example.com,2025/03/28,2025/03/31,106.38,Home,
+406,Tom Jackson,tom.jackson@example.com,2025-01-10,2025-05-19,206.08,Fashion,usa
+345,STACEY SOTO,stacey.soto@example.com,2024-12-08,2024-10-11,283.07,Hom,United States
+238,Justin Benson,justin.benson@example.com,07-23-2024,08/09/2024,65.72,Fashion,uk
+345,carly potts,carly.potts@example.com,27/01/2025,,427.82,Electronics,UK
+008,amanda greer,amanda.greer@example.com,06-02-2025,2025/04/12,120.19,Electronics,
+090,Andrew Johnson,andrew.johnson@example.com,2025-04-30,22/04/2025,88.67,Electronics,usa
+146,ethan gonzales,,04-25-2025,08/09/2024,-24.36,Home,FRA
+051,KELSEY MORRIS,kelsey.morris@example.com,05-02-2025,2024-09-07,23.17,Fashion,USA
+493,Steven Ross,steven.ross@example.com,04-12-2025,08-21-2024,23.28,Home,United States
+391,Kelsey Parker,kelsey.parker@example.com,10-21-2024,06-24-2025,252.55,Home,FRA
+279,zachary brown,,2024-10-31,19/01/2025,297.59,Fashion,uk
+485,Sheri Schaefer,sheri.schaefer@example.com,02/10/2024,10-24-2024,183.39,Fashion,france
+499,sonya krueger,sonya.krueger@example.com,28/08/2024,07/06/2025,450.92,Home,uk
+045,Gabriel Johnson,gabriel.johnson@example.com,2025-06-20,2023-13-40,292.17,Home,uk
+372,Wanda Pacheco,wanda.pacheco@example.com,2025/01/01,2025-01-16,292.95,Electronics,UK
+102,Joseph Garrison,joseph.garrison@example.com,02/01/2025,2024/10/13,-93.2,Fashion,usa
+253, Rebecca Ford ,rebecca.ford@example.com,2025/01/25,2025/01/25,481.94,Electronics,France
+423,Jordan Mack,jordanmack@@example.com,11/03/2025,2025-03-01,379.48,Fashion,USA
+109,Robert Bradley,robert.bradley@example.com,01-16-2025,04-24-2025,59.52,Fashion,
+346,JUAN NORRIS,juan.norris@example.com,04/09/2024,07-20-2024,476.33,Home,UK
+309,Megan Stewart,megan.stewart@example.com,2024/12/02,04/01/2025,131.36,Electronics,United States
+280,brett fox,brett.fox@example.com,2025/03/28,,77.17,Fashion,France
+385, Paula Thomas ,paula.thomas@example.com,2024-07-31,01/01/2025,217.64,fashion,UK
+223,Karina Cummings,karinacummings@@example.com,08-16-2024,,213.55,Fashion,usa
+428,Veronica Ball,veronica.ball@example.com,04/08/2024,,67.89,Electronics,france
+247,Thomas Shah,thomas.shah@example.com,19/12/2024,27/11/2024,62.95,Electronics,United States
+195,Robert Krause,robertkrause@@example.com,2024-08-03,2025/04/24,201.33,Fashion,usa
+433,Corey Hill,corey.hill@example.com,2024/08/03,,384.93,Home,USA
+086,Monica Randall,monica.randall@example.com,03-18-2025,26/11/2024,305.4,Electronics,USA
+460,David Harrison,david.harrison@example.com,2025-01-18,2025/03/12,34.89,Home,United States
+380,anthony reyes,anthony.reyes@example.com,29/08/2024,2024-09-22,284.7,Fashion,UK
+093,Diana Fleming,dianafleming@@example.com,2024-09-08,2024-09-10,459.67,Fashion,uk
+218,Katherine Rodriguez,katherine.rodriguez@example.com,07-16-2024,2025-05-02,498.41,Fashio,USA
+,Courtney James,courtney.james@example.com,24/09/2024,02-22-2025,275.92,Fashion,FRA
+463,Rebecca Yates,rebeccayates@@example.com,2025/04/24,2025-01-25,299.79,Fashion,UK
+350,Maria Nunez,marianunez@@example.com,2024/08/13,2024-09-14,107.44,Fashion,UK
+448,TRACY LUCAS,tracy.lucas@example.com,07/12/2024,,23.11,Electronics,United States
+291, ashley johnston ,ashley.johnston@example.com,2025/04/23,2024/07/29,-68.41,Fashion,USA
+024, Paul Roberts ,paul.roberts@example.com,2024-08-07,03/02/2025,337.71,electronics,FRA
+271,Laura Jones,laura.jones@example.com,11-25-2024,01-04-2025,187.39,Home,France
+038,Chelsea Price,chelsea.price@example.com,2024-07-15,07/03/2025,434.88,Electronics,France
+186, Heather Caldwell ,heather.caldwell@example.com,01/03/2025,03/04/2025,145.76,fashion,FRA
+030,Virginia Aguilar,virginia.aguilar@example.com,2025-02-10,17/05/2025,335.44,Home,United Kingdom
+355,Regina Perez,regina.perez@example.com,12-08-2024,,444.04,Fashion,FRA
+367,George Charles,,2024-12-14,2025-06-03,391.89,electronics,FRA
+184,Stephanie Nielsen,stephanie.nielsen@example.com,2025-05-05,,375.53,Fashion,
+456,Kyle Pratt,kylepratt@@example.com,2025-01-23,07-17-2024,495.9,Home,France
+424,SCOTT CARPENTER,scott.carpenter@example.com,2024/11/04,19/11/2024,121.5,Electronics,UK
+436,anthony bryant,anthony.bryant@example.com,2024/07/14,2024/08/13,318.6,Home,FRA
+494,DANIEL DURAN,daniel.duran@example.com,2024/07/04,2025/06/13,499.86,Fashion,
+343,Cassandra Moran,cassandra.moran@example.com,05/05/2025,04-12-2025,397.82,Home,USA
+151,Daniel Stanley,daniel.stanley@example.com,2024-09-07,16/04/2025,270.08,Fashio,UK
+118,Tonya Welch,tonya.welch@example.com,08-23-2024,30/06/2025,383.41,electronics,uk
+323,Luke Wilkinson,luke.wilkinson@example.com,2025-06-23,25/12/2024,314.7,Electronics,FRA
+063,Danielle Carson,danielle.carson@example.com,07/12/2024,08-19-2024,167.54,electronics,France
+359,Timothy Irwin,timothy.irwin@example.com,28/06/2025,08/08/2024,111.48,Home,USA
+149,Debra Evans,debra.evans@example.com,2025/04/13,03-20-2025,484.99,Electronics,France
+445,Kenneth Ortiz,kenneth.ortiz@example.com,2023-13-40,,298.35,Electronics,
+173,Shane Anderson,shane.anderson@example.com,11-29-2024,,193.19,Electronics,France
+183,thomas walsh,thomas.walsh@example.com,2025/01/04,2024/08/25,115.43,Home,usa
+059,MONICA VASQUEZ,monica.vasquez@example.com,2025-05-25,14/09/2024,108.2,Home,France
+089,CHASE SMITH,chase.smith@example.com,19/06/2025,2025-04-22,417.82,Electronics,FRA
+357,Ryan Montgomery,ryan.montgomery@example.com,2025/03/04,09-12-2024,453.41,Electronics,United Kingdom
+423,Todd Elliott,todd.elliott@example.com,2023-13-40,19/10/2024,157.41,Home,United States
+172,Kaitlyn Willis,kaitlyn.willis@example.com,06/08/2024,22/09/2024,356.56,electronics,france
+173,john robinson,john.robinson@example.com,2024/10/07,2024-11-27,70.0,Home,usa
+264,maria jenkins,maria.jenkins@example.com,2024-12-20,02/01/2025,288.29,Electronics,USA
+388,Kimberly White,kimberly.white@example.com,2024-08-21,09-07-2024,79.62,Home,uk
+055,Jason Rivas,jason.rivas@example.com,2024/09/24,2025-05-14,430.54,Electronics,USA
+300,Timothy Prince,timothy.prince@example.com,2025-03-20,2025-06-28,409.35,Home,uk
+445,Alicia Lopez,alicia.lopez@example.com,10-06-2024,2025/04/24,387.79,fashion,FRA
+438,Kimberly Douglas,kimberly.douglas@example.com,02-07-2025,06/04/2025,402.64,Electronics,france
+116,Heather Patton,heather.patton@example.com,2024/12/23,05/02/2025,-6.43,Electronics,usa
+361,Mitchell Tran,mitchell.tran@example.com,2025-04-01,2023-13-40,356.36,Electronics,United States
+,Cynthia Keller,cynthia.keller@example.com,11-06-2024,05-16-2025,232.73,Home,FRA
+372,Desiree Huff,desiree.huff@example.com,12/09/2024,,66.14,home,uk
+307,John Curtis,john.curtis@example.com,09-28-2024,,-8.96,Home,UK
+473,Dr. Theresa Mcintosh,dr..theresa.mcintosh@example.com,2025/04/03,2024-11-05,356.76,Fashion,france
+021,Jessica Johnson PhD,jessica.johnson.phd@example.com,22/03/2025,09-27-2024,243.34,Fashion,UK
+131,Miguel Myers,miguel.myers@example.com,2025-02-03,10-16-2024,349.81,Fashion,USA
+250,Rebecca Miller,rebecca.miller@example.com,09/06/2025,04-03-2025,381.65,Home,usa
+029,Mitchell Davis,mitchell.davis@example.com,23/01/2025,17/06/2025,247.85,Electronics,france
+453,Jared Evans Jr.,jared.evans.jr.@example.com,2025-01-24,2025-03-12,104.68,Home,USA
+234,amber kennedy,amber.kennedy@example.com,29/10/2024,02/05/2025,268.5,Fashion,France
+257,Tracy Johnson,,2024-11-02,2024/10/18,464.83,Electronics,United Kingdom
+264,Jade Peterson,jade.peterson@example.com,31/08/2024,2025/01/30,265.0,Fashion,usa
+436,Christine Johnson,christine.johnson@example.com,2024-09-03,2024-09-29,152.9,Electronics,France
+037,Kendra Nolan,kendra.nolan@example.com,07/03/2025,2024/09/21,193.33,Home,United Kingdom
+067,Courtney Zhang,courtney.zhang@example.com,2025/05/26,2024/10/08,207.87,Electronics,UK
+005,Brian Huang,brian.huang@example.com,2025-05-30,2025/03/19,237.48,Home,france
+200,Michele Murphy,michele.murphy@example.com,2024/09/03,04-17-2025,-68.93,Home,UK
+197,Sarah Peters,sarah.peters@example.com,2025/04/26,03/09/2024,217.55,Home,france
+371,Andrea Hart,andrea.hart@example.com,05-30-2025,2023-13-40,6166.57,Hom,United Kingdom
+117,Melissa Valdez,melissa.valdez@example.com,09-05-2024,2024/12/25,280.45,Fashion,
+371, Pamela Moore ,pamela.moore@example.com,2024-09-17,,75.94,Home,uk
+324,Dana Robinson,dana.robinson@example.com,12-18-2024,11/03/2025,281.63,Electronic,uk
+034,Jason Smith,jason.smith@example.com,08/08/2024,2024/09/23,81.29,Electronics,uk
+256,William Massey,william.massey@example.com,2025/01/14,23/10/2024,415.91,Electronics,uk
+404,Tina Martin,tina.martin@example.com,2024-07-03,2025-05-28,364.9,Fashion,USA
+318,Elizabeth Torres,elizabethtorres@@example.com,12-30-2024,2023-13-40,106.69,Home,UK
+324,JAMES JONES,james.jones@example.com,2024-10-10,07/08/2024,299.04,electronics,france
+220,Michael Mccullough,michael.mccullough@example.com,01/07/2025,07-02-2025,85.77,Fashion,france
+158,Natalie Frank,natalie.frank@example.com,2024/08/19,2025-03-27,422.44,Electronics,france
+481,Heather Jackson,heather.jackson@example.com,19/03/2025,,198.49,Home,uk
+041,Joshua Nelson,joshua.nelson@example.com,2023-13-40,23/01/2025,283.4,Home,United States
+083,Dillon White,dillon.white@example.com,11-16-2024,2024/07/19,71.68,Home,
+047,Bobby Wilkins,bobby.wilkins@example.com,06-26-2025,05/07/2024,308.96,Electronics,FRA
+486,kimberly barton,kimberly.barton@example.com,06-28-2025,28/01/2025,403.8,Fashion,UK
+432,Alicia Espinoza,alicia.espinoza@example.com,2025/04/06,,438.27,Fashion,USA
+321,Anthony Webb,anthony.webb@example.com,2024-12-25,13/04/2025,31.52,Fashion,uk
+335,Anna Hobbs,anna.hobbs@example.com,01-11-2025,08/01/2025,9771.97,Fashion,UK
+028,Katelyn Evans,katelyn.evans@example.com,03-20-2025,2025-06-30,217.47,Home,UK
+459,Laura Smith,laura.smith@example.com,2025-06-26,08-03-2024,382.52,Fashion,uk
+332,kimberly brown,kimberly.brown@example.com,03-09-2025,2024/12/16,102.0,home,
+220, Vanessa Howard MD ,vanessa.howard.md@example.com,19/05/2025,06-25-2025,302.2,Home,uk
+003,Michael Sanchez,michael.sanchez@example.com,2024/07/18,2024/11/19,27.92,electronics,usa
+109, Tamara Gordon ,tamara.gordon@example.com,12-09-2024,2024-08-28,22.1,Fashion,United Kingdom
+417,Tammy Lambert,tammy.lambert@example.com,2024-09-07,2025/06/02,135.06,Fashion,uk
+402,Kristina Bauer,kristina.bauer@example.com,2024/07/03,2025/02/09,112.08,Fashion,UK
+150,Mr. David Collins,mr.davidcollins@@example.com,27/03/2025,2025-06-03,446.68,Home,FRA
+328,CAITLIN MORA,caitlin.mora@example.com,2025-01-23,03-17-2025,244.57,Home,uk
+074,Debra Decker,debra.decker@example.com,2024/09/30,09-02-2024,149.05,Electronics,United States
+345,Chelsea Peters,chelsea.peters@example.com,07/11/2024,2024-08-12,238.71,Home,United States
+264, Kevin Ferrell ,kevin.ferrell@example.com,24/03/2025,02-09-2025,461.87,Fashion,United Kingdom
+379,Haley Gonzalez,haley.gonzalez@example.com,2024-11-12,2025-02-04,7726.85,Electronics,
+363,Amanda Torres,amanda.torres@example.com,2025-03-03,27/11/2024,297.23,Home,France
+294,curtis mueller,curtis.mueller@example.com,2024/09/09,07-10-2024,477.86,electronics,uk
+186,Jason Jennings,jason.jennings@example.com,10/12/2024,,313.1,Fashion,UK
+318, Debra Ellis ,debra.ellis@example.com,02/08/2024,13/05/2025,396.37,Home,USA
+123,Kevin Powell,kevin.powell@example.com,17/11/2024,20/09/2024,-81.17,Fashion,usa
+333,Susan Wu,susan.wu@example.com,01/07/2025,2024/07/17,46.05,Electronics,United Kingdom
+018,paul hart,paul.hart@example.com,22/04/2025,24/11/2024,475.76,Home,United Kingdom
+258,Corey Fernandez,,10-28-2024,2024/10/24,467.95,Fashio,France
+302,April Brown,april.brown@example.com,2025-05-16,12-24-2024,464.42,electronics,FRA
+389,Andrea Davis,andrea.davis@example.com,08-08-2024,2024/07/28,381.64,electronics,UK
+390,Diana Clark,diana.clark@example.com,06-23-2025,24/09/2024,389.1,Home,United Kingdom
+135,Dale Burns,dale.burns@example.com,2024/10/05,,360.0,Home,United States
+367,Joseph Garcia,joseph.garcia@example.com,2024/08/05,06-17-2025,65.55,fashion,USA
+388, Joseph Reed ,joseph.reed@example.com,10-26-2024,13/08/2024,192.28,Home,United States
+037,Barbara Anderson,barbara.anderson@example.com,2025-03-12,06/02/2025,386.41,Fashion,United Kingdom
+070,Michael Garcia,michael.garcia@example.com,2023-13-40,2025-04-04,324.77,Fashio,United Kingdom
+495,Bobby Moore,bobby.moore@example.com,12-03-2024,08-12-2024,137.34,Fashion,uk
+236,Joshua James,joshua.james@example.com,2023-13-40,2025/06/09,424.44,Home,United States
+041, Benjamin Williams ,benjamin.williams@example.com,06-13-2025,26/07/2024,43.93,Home,United States
+,Travis Green,travis.green@example.com,2023-13-40,2025-01-29,443.87,fashion,UK
+132,Kelsey Vincent PhD,kelsey.vincent.phd@example.com,2025-04-28,10-13-2024,456.73,Fashion,France
+323,Dr. Eric Pineda,dr.ericpineda@@example.com,12-19-2024,,267.85,Electronics,United States
+318,Stephen Sanchez,stephen.sanchez@example.com,2024-12-01,05-20-2025,46.73,Home,USA
+246, CRAIG LONG ,craig.long@example.com,2025-01-08,05/07/2024,398.35,Fashion,UK
+013,JEREMY GONZALES,jeremy.gonzales@example.com,2024/07/20,2024-08-29,367.74,Fashion,france
+427,DARRELL COOK,darrell.cook@example.com,26/05/2025,2024-10-07,295.41,Home,United Kingdom
+298,Patrick Ellison,patrick.ellison@example.com,03/10/2024,2025/02/20,224.67,home,United States
+213, Aaron Medina ,aaron.medina@example.com,23/01/2025,18/08/2024,161.3,home,UK
+125,sarah lee,sarah.lee@example.com,2025/01/21,06-06-2025,480.26,Home,
+060,JOHN ARELLANO,john.arellano@example.com,2024-09-17,12-11-2024,13.47,Home,United Kingdom
+460,Tyler Castillo,tyler.castillo@example.com,12-07-2024,2025-03-06,156.26,Fashio,FRA
+120,Christine Jennings,christine.jennings@example.com,2024/11/27,2024/10/17,16.88,Fashion,United Kingdom
+212,Brandy Griffin,brandy.griffin@example.com,2025-03-30,2025-02-24,484.39,Home,United Kingdom
+423,Joshua Jones,joshua.jones@example.com,10/03/2025,10-12-2024,497.29,Fashion,FRA
+302,marcus heath,marcus.heath@example.com,2025/01/01,17/09/2024,462.9,Home,United States
+247,Samuel Mcknight,samuel.mcknight@example.com,2024-10-25,2025-05-20,145.85,Electronics,United States
+470,Denise Hall,denise.hall@example.com,2025/06/01,,467.68,Fashio,USA
+311,Ashley Garcia,ashley.garcia@example.com,2025-04-30,2025-03-06,284.96,Electronics,USA
+201,lindsay ochoa,,10-03-2024,16/05/2025,378.95,Fashion,FRA
+418,Robert Adkins,robert.adkins@example.com,2025-06-13,,144.68,Home,usa
+373,Robert Johnson,,2025/07/02,2024/07/15,202.46,Electronics,United Kingdom
+197,Amanda Turner,amanda.turner@example.com,2024-08-17,2024/10/24,445.84,Fashion,United States
+179,Edward Hudson,edward.hudson@example.com,2025-02-13,2024-10-12,161.79,Home,France
+099,Lance Jefferson,lance.jefferson@example.com,03-14-2025,2025/05/09,180.35,Electronic,France
+014,david garrett,davidgarrett@@example.com,2024-10-18,2025-01-27,454.46,Home,France
+384,Sara George,sara.george@example.com,2025-05-16,05-17-2025,419.72,Electronics,United Kingdom
+131,Anthony Thomas,anthony.thomas@example.com,2025/01/08,27/01/2025,275.04,Home,uk
+034,John Fry,john.fry@example.com,09-20-2024,2024/09/30,64.89,Fashion,usa
+004,Tammy Moore,tammy.moore@example.com,14/07/2024,2025/01/26,301.64,fashion,United Kingdom
+243,Jessica Johnston,,2025-05-23,13/06/2025,125.6,Fashion,USA
+258,tammy bailey,tammy.bailey@example.com,2025/03/31,2025/02/18,201.94,Electronics,UK
+256,Johnny Payne,johnny.payne@example.com,10-22-2024,06-12-2025,192.89,Home,FRA
+277,Travis Moody,travis.moody@example.com,2025-04-02,04/11/2024,446.71,Electronics,USA
+134,Willie Hernandez,willie.hernandez@example.com,03-04-2025,2025-06-09,321.35,Fashion,usa
+063,david taylor,david.taylor@example.com,21/05/2025,18/10/2024,188.24,Fashion,uk
+422,kristy hale,kristy.hale@example.com,04-13-2025,19/08/2024,104.89,Electronics,USA
+304,Janet Nguyen,janet.nguyen@example.com,2025-06-01,,392.54,Fashion,usa
+457,Riley Harris Jr.,riley.harris.jr.@example.com,03-03-2025,11-10-2024,106.7,Home,france
+298,Marcus Hess,marcus.hess@example.com,06-13-2025,19/01/2025,497.94,Fashion,USA
+444,courtney gibson,courtney.gibson@example.com,2024-12-14,2025/01/16,202.55,Electronics,FRA
+029,Kevin Vaughn,kevin.vaughn@example.com,01-20-2025,2025/04/06,5992.66,Fashion,FRA
+281, Christopher Ellison ,christopher.ellison@example.com,2024-11-10,19/05/2025,236.59,Home,france
+175,Jaime Strickland,jaime.strickland@example.com,2024/08/21,09-25-2024,219.03,Electronics,USA
+449,Craig Ramirez,craig.ramirez@example.com,03-28-2025,2024/08/27,107.82,Electronics,UK
+092,Samantha Moore,samantha.moore@example.com,2025/02/21,2025-01-14,-12.15,home,USA
+312,Bryan Ward,bryan.ward@example.com,2024/07/25,08/11/2024,68.58,Fashion,FRA
+349,Patricia Perry,patricia.perry@example.com,2024-10-02,2025-01-09,367.07,Home,
+137,Thomas Hunter,thomas.hunter@example.com,2025-01-31,02/09/2024,211.19,Home,UK
+336,Jordan Newman,jordan.newman@example.com,2024/08/19,2025-03-18,280.29,Home,United Kingdom
+070,Karen Harris,karenharris@@example.com,2025-06-22,11/08/2024,403.43,Electronics,usa
+465,Gavin Alexander,gavin.alexander@example.com,26/01/2025,2024-10-25,142.5,Fashion,United States
+495,Joseph Cherry,joseph.cherry@example.com,06-19-2025,,74.4,Fashion,United States
+209,Deborah Benton,deborah.benton@example.com,2024/09/18,2024-07-08,201.81,Hom,United States
+485,DANIEL JIMENEZ,danieljimenez@@example.com,01-17-2025,26/09/2024,40.97,Electronics,
+003,annette carroll,annette.carroll@example.com,2024/11/30,01-04-2025,148.37,Home,FRA
+173,Becky Porter,becky.porter@example.com,2025-03-20,03/07/2024,157.5,Home,UK
+290,Scott Rodriguez,scott.rodriguez@example.com,06/03/2025,2025/05/23,253.16,Fashion,USA
+111,Jessica Hopkins,jessica.hopkins@example.com,2023-13-40,2024/08/14,290.66,Fashio,uk
+071,Eric Bowman Jr.,eric.bowman.jr.@example.com,11/04/2025,,135.32,Home,
+322, Steve Drake ,stevedrake@@example.com,2025-06-13,21/04/2025,170.09,Electronics,France
+478,tara guzman,tara.guzman@example.com,2024/11/11,2024/12/24,337.21,Home,france
+094,Chelsea Mclean,chelsea.mclean@example.com,2024-10-16,2024/08/21,100.38,Electronics,FRA
+345,Maria Jones,maria.jones@example.com,2024/12/28,09-17-2024,491.87,fashio,uk
+400,MARIE VALENZUELA,marie.valenzuela@example.com,2024/09/26,2024/12/08,411.88,Electronics,United Kingdom
+087,John Robertson,john.robertson@example.com,2024-11-29,14/11/2024,147.48,Home,United States
+011,Andrew Perry,andrew.perry@example.com,2023-13-40,2024-10-27,189.52,Hom,United States
+021,Larry Ramirez,,28/05/2025,2023-13-40,235.35,Home,United States
+451,Mary Edwards,mary.edwards@example.com,2024/10/19,2024/12/22,204.68,Fashio,usa
+432,ELIJAH LONG,elijahlong@@example.com,11-04-2024,05-18-2025,201.65,fashion,USA
+169, Julie Page ,julie.page@example.com,2024-12-27,2025/06/11,60.82,Electronics,FRA
+123,Chris Lee,chris.lee@example.com,2025-04-24,,376.15,Home,UK
+003,Michelle Murray,michellemurray@@example.com,06/09/2024,2023-13-40,283.68,Electronics,uk
+030,Nicole Mcneil,nicole.mcneil@example.com,2024/09/22,09-20-2024,5564.87,Electronics,France
+298,Steven Mccall,steven.mccall@example.com,10-07-2024,2025-01-31,342.3,fashion,france
+474,Thomas Anderson,thomas.anderson@example.com,2024/09/17,2024/10/06,207.67,Fashion,france
+053,Andrew Martinez,andrew.martinez@example.com,2025/03/15,09/08/2024,383.14,Home,france
+280,David Bauer,david.bauer@example.com,2023-13-40,07/09/2024,423.1,Fashion,france
+254,Jennifer James,jennifer.james@example.com,03/03/2025,08-08-2024,276.14,Home,USA
+463,Christine Cox,christine.cox@example.com,2024/12/01,2024/12/28,407.94,Home,usa
+442,Kimberly Perez,kimberly.perez@example.com,2025-03-29,2024/07/10,98.6,Electronic,france
+456,William Peterson,william.peterson@example.com,18/04/2025,01-14-2025,493.03,Fashion,FRA
+089,david clark,david.clark@example.com,29/04/2025,11-09-2024,234.5,Home,United States
+165,Jennifer Carter,jennifer.carter@example.com,06-17-2025,11/08/2024,196.37,Electronics,United States
+065,Frank Chang,frank.chang@example.com,03-05-2025,12/03/2025,294.89,Electronics,uk
+064,Christopher Williams,christopher.williams@example.com,01-04-2025,28/03/2025,21.01,Home,usa
+172,Steven Smith,steven.smith@example.com,06/10/2024,2025/01/12,445.69,Home,france
+362,JONATHAN MOORE,jonathan.moore@example.com,23/05/2025,28/12/2024,320.88,Fashion,usa
+140, leslie villanueva ,leslie.villanueva@example.com,25/08/2024,10/05/2025,208.66,Fashion,France
+494,Corey Irwin,corey.irwin@example.com,10/06/2025,2024-09-09,262.92,Electronic,France
+496,Mark Wood,mark.wood@example.com,04-29-2025,2024/07/15,31.3,Home,France
+367,Dale Jordan,dalejordan@@example.com,09-22-2024,11-22-2024,264.14,Electronics,UK
+216,Deanna Fields,,2025-05-27,10-25-2024,155.44,Electronics,uk
+198, Kelly Kane ,kelly.kane@example.com,2024-08-23,2025/02/24,208.18,Electronics,United Kingdom
+200,Connie Wolf,connie.wolf@example.com,10-07-2024,08/09/2024,107.05,Home,United Kingdom
+242,Jaime Benitez,jaime.benitez@example.com,17/08/2024,,437.53,Home,france
+051,Phillip Davis,phillip.davis@example.com,03-28-2025,18/04/2025,392.24,Home,UK
+283,Cole Oconnor,cole.oconnor@example.com,2025/02/06,2025/03/12,123.73,electronics,United States
+097,Carrie Sosa,carrie.sosa@example.com,05-16-2025,2025/05/10,406.47,Electronics,United States
+256,KELSEY BURGESS,kelsey.burgess@example.com,05/02/2025,03/10/2024,7247.54,Electronics,usa
+158,kimberly richardson,kimberly.richardson@example.com,2024/07/31,,97.08,Home,usa
+491,Phillip Miller,phillip.miller@example.com,10-23-2024,2025-02-21,132.84,Fashion,usa
+114, stephanie johnson ,stephanie.johnson@example.com,23/07/2024,,459.84,Home,
+411,Casey Wilkinson,casey.wilkinson@example.com,2024-10-20,2025-05-14,258.7,Home,usa
+023,MICHELLE PHILLIPS,michelle.phillips@example.com,27/02/2025,,289.46,Fashio,France
+356,Eugene Stanton,eugenestanton@@example.com,2024/10/08,,403.41,home,UK
+296, Mr. Roger Young ,mr..roger.young@example.com,11/12/2024,2025-01-24,300.76,Fashion,uk
+392,Becky Ruiz,becky.ruiz@example.com,2025-06-30,2025/05/31,-92.9,Fashion,uk
+052,Cole Merritt,cole.merritt@example.com,01/09/2024,2025/06/14,110.19,Fashion,FRA
+345,BARBARA LESTER,barbara.lester@example.com,2024/07/12,2025/06/18,290.2,Home,France
+296,Larry Hall,larry.hall@example.com,26/04/2025,2025/04/25,58.94,Home,uk
+330,Stanley Clark,stanley.clark@example.com,2025-05-24,2025-01-23,273.52,Hom,France
+276,Julie Smith,julie.smith@example.com,09-11-2024,12/08/2024,274.77,fashion,USA
+497,Richard Pierce,richard.pierce@example.com,2025-01-28,2024-08-20,387.69,Home,FRA
+217,Aaron Montgomery,aaron.montgomery@example.com,2024-07-15,,282.17,Electronics,FRA
+005,Mark Adams,mark.adams@example.com,12-05-2024,09/03/2025,43.92,Electronics,France
+167,Justin Sellers,justin.sellers@example.com,11-30-2024,07-17-2024,460.03,home,France
+281,Melissa Robinson,melissa.robinson@example.com,13/02/2025,2024-08-06,51.35,Electronic,France
+218,Daniel Simmons,daniel.simmons@example.com,02-01-2025,14/06/2025,186.4,Electronics,france
+417,ROBERT CHAMBERS,robert.chambers@example.com,13/09/2024,2023-13-40,-88.94,Home,United States
+203, MATTHEW MORRIS ,matthew.morris@example.com,14/08/2024,2025/04/23,314.59,Home,france
+399,Theresa Hayes,theresa.hayes@example.com,18/02/2025,02/09/2024,85.3,Fashion,UK
+044,Bryan Anderson,bryan.anderson@example.com,2024-08-12,2023-13-40,103.75,Fashion,usa
+216,Edward Allen,edward.allen@example.com,2024-08-21,12/07/2024,4667.42,Fashion,United States
+008,Lindsey White,lindsey.white@example.com,2024-09-08,2024/12/14,414.57,home,uk
+272,Julie Moore,julie.moore@example.com,2024-09-13,11-28-2024,-90.39,Home,United Kingdom
+121,Jane Cruz,jane.cruz@example.com,2024/07/22,2024-07-08,275.49,Electronics,usa
+184,Monica Hicks,monica.hicks@example.com,30/11/2024,03-27-2025,151.37,Fashion,france
+290, Taylor Rodriguez ,taylor.rodriguez@example.com,2024-11-12,12-26-2024,-66.38,Electronics,France
+426,William Wilkins,william.wilkins@example.com,2024/11/18,2024/08/08,233.79,Fashion,FRA
+021,Melissa Myers,melissa.myers@example.com,2025-05-03,05-09-2025,281.19,Home,UK
+497,Sara Morgan,sara.morgan@example.com,2024/10/08,2025-04-24,139.66,Home,United Kingdom
+043,ray morris,raymorris@@example.com,05/09/2024,01-24-2025,464.91,Electronics,United Kingdom
+,Wesley Ryan,wesley.ryan@example.com,2025/02/24,2025/03/18,281.33,Electronics,United States
+,andrew sanchez,andrew.sanchez@example.com,09/07/2024,2025/01/31,321.92,Electronics,UK
+462,Maria Gonzalez,mariagonzalez@@example.com,2025/01/11,2024/11/08,395.03,electronics,United States
+194,Jasmine Bradley,jasmine.bradley@example.com,2025-02-15,05/10/2024,213.23,electronics,France
+381, donna gibbs ,donna.gibbs@example.com,06-25-2025,2024-12-23,350.9,Home,UK
+150,Courtney Farrell,courtneyfarrell@@example.com,2024-08-21,01-22-2025,274.02,Fashion,UK
+283,Michael Rodgers,michael.rodgers@example.com,2025/04/28,2024/09/29,369.08,Electronics,uk
+198,Luke Rojas,luke.rojas@example.com,07-17-2024,06/10/2024,163.81,Electronics,United Kingdom
+045,GABRIEL LEWIS,gabriellewis@@example.com,12-16-2024,2025/05/08,-64.04,Fashion,FRA
+389,April Gill,april.gill@example.com,2024-12-04,2023-13-40,127.54,Home,United States
+491,Crystal Cunningham,crystal.cunningham@example.com,09/11/2024,15/08/2024,196.12,fashion,france
+375,Cristian Dickson,cristian.dickson@example.com,2025/05/07,06-18-2025,282.59,fashion,United States
+475,Brandon Pitts,brandon.pitts@example.com,2024/09/05,2024/10/10,446.7,Home,UK
+023,John Dunn,john.dunn@example.com,2024-12-09,01/08/2024,140.5,Home,france
+370,Alicia Walker,alicia.walker@example.com,2025-01-14,04/02/2025,322.93,Home,USA
+293,PHILIP HUBBARD,philip.hubbard@example.com,10-15-2024,03-28-2025,90.78,Electronics,UK
+230, Michael Potts ,,24/03/2025,09-27-2024,417.04,Home,usa
+003,Danielle Williamson,danielle.williamson@example.com,2024-11-07,,244.46,Fashion,UK
+327,Paul Weiss,paul.weiss@example.com,2025-04-18,07/09/2024,104.9,Fashion,FRA
+232, Jason Wilson ,jason.wilson@example.com,2024/11/26,2025/06/29,273.07,Electronics,usa
+097,Timothy Bell,timothy.bell@example.com,10/12/2024,21/05/2025,250.88,Fashion,United Kingdom
+478,Sara Meyer,sara.meyer@example.com,2023-13-40,2025-06-05,29.27,Home,France
+141,tanya morris,tanya.morris@example.com,2025/02/03,11/05/2025,441.19,Home,uk
+331,Anthony King,anthony.king@example.com,02/04/2025,2024-10-01,35.93,Electronics,USA
+227, JONATHAN THOMPSON ,jonathan.thompson@example.com,2024/11/18,,296.7,fashion,United Kingdom
+076,Bruce Cox,bruce.cox@example.com,2025/05/15,2025/04/03,-58.25,Fashion,FRA
+161,Marc Werner,,01-27-2025,2024-07-15,454.75,Fashion,UK
+310,Katherine Roberts,katherine.roberts@example.com,05-05-2025,10-30-2024,374.83,Home,USA
+135,Alyssa Villanueva,alyssa.villanueva@example.com,17/05/2025,2024/09/04,86.11,Fashion,United States
+281,Joseph Santos,joseph.santos@example.com,07-19-2024,2024-07-24,456.81,Electronics,FRA
+419,Bryan Robinson,bryan.robinson@example.com,13/06/2025,2025-05-31,425.95,Home,United States
+149,Bradley Allen,bradley.allen@example.com,2024/09/21,18/04/2025,333.41,Home,France
+280,Seth Cooper,,02-12-2025,2024/10/23,458.86,Electronics,france
+097,Christina Daniel,christina.daniel@example.com,2023-13-40,2025/05/09,479.51,Fashion,usa
+396,MARY ELLIS,maryellis@@example.com,2024-08-19,21/03/2025,492.89,Fashion,United States
+249,Ashlee Gibbs,ashlee.gibbs@example.com,2024-08-18,2024/07/03,46.26,Fashion,France
+493,Deanna Burton,deannaburton@@example.com,2025-02-13,2024/08/23,407.54,Fashio,USA
+444,Jessica Scott,jessica.scott@example.com,2024/11/16,08-11-2024,176.04,Electronics,United Kingdom
+032,Mr. Brent Burns,mr..brent.burns@example.com,2025-05-14,2025/05/22,347.0,Home,France
+167,Peggy Cruz,peggy.cruz@example.com,10-29-2024,08/05/2025,10.72,Hom,uk
+184, Helen Deleon ,,2024-11-19,2024-07-21,462.78,Fashion,usa
+315,Jesse Rice,jesse.rice@example.com,2025/04/21,28/07/2024,490.82,electronics,UK
+318,anthony webster,anthony.webster@example.com,12-17-2024,02/08/2024,-47.35,Electronics,United States
+168, Taylor Lewis ,taylor.lewis@example.com,14/09/2024,2025-05-09,407.36,Fashion,UK
+052,philip adams,philip.adams@example.com,2025-04-14,2025/06/11,243.57,electronics,
+292,Brendan Ross,brendan.ross@example.com,2024/12/14,06-20-2025,339.88,Electronics,USA
+207,sharon clayton,,10-23-2024,2023-13-40,356.45,Home,USA
+084,Steven Kline,steven.kline@example.com,2025/01/16,27/02/2025,464.77,Home,FRA
+476,Mary Jones,mary.jones@example.com,10-23-2024,24/09/2024,383.6,Electronics,United Kingdom
+016,Claudia Miller,claudia.miller@example.com,15/10/2024,2025-06-29,433.56,Fashion,france
+169,David Bryant,david.bryant@example.com,2024-10-16,02-06-2025,188.95,Home,FRA
+476,Lisa Edwards,lisa.edwards@example.com,10/02/2025,06-20-2025,318.8,Electronics,FRA
+259, Scott Zimmerman ,scott.zimmerman@example.com,2024/09/27,22/03/2025,388.79,Fashion,United States
+418, Michael Burns ,michael.burns@example.com,07-07-2024,03-20-2025,220.33,Home,uk
+375,lori holmes,lori.holmes@example.com,2024-09-18,2025/02/16,460.57,Home,uk
+382,Adrian Mcdonald,adrian.mcdonald@example.com,09-10-2024,2023-13-40,233.1,Fashion,France
+492,Patrick Jenkins,patrick.jenkins@example.com,09/12/2024,2024-08-03,216.47,Home,France
+436,Matthew Abbott,matthew.abbott@example.com,2025-03-01,08-19-2024,144.72,Electronics,france
+156,Leslie Walker MD,leslie.walker.md@example.com,09-14-2024,2024/12/14,94.9,Home,UK
+059,PAUL MEYERS,paul.meyers@example.com,13/11/2024,2024-09-12,26.21,Fashion,United Kingdom
+325,Katherine Bowers,katherine.bowers@example.com,2025-06-29,25/09/2024,314.57,electronics,United States
+482,Joseph Alexander,joseph.alexander@example.com,07-30-2024,,85.09,Home,United States
+030,Megan Spence,megan.spence@example.com,2025/01/18,2025-05-10,475.14,Home,USA
+116,David Olson,david.olson@example.com,06-22-2025,04-15-2025,314.72,Electronics,United States
+015,Brandy Beasley,brandy.beasley@example.com,12-04-2024,25/03/2025,355.14,Home,FRA
+201,Amanda Pope,amanda.pope@example.com,10-17-2024,2025-02-26,496.06,Electronics,france
+155,Jessica Dodson,jessica.dodson@example.com,06/02/2025,20/04/2025,99.09,Electronics,uk
+404,TRACY SCOTT,tracy.scott@example.com,06-24-2025,06/09/2024,386.55,Fashion,france
+070,Hannah Coffey,hannahcoffey@@example.com,2025-05-08,11-14-2024,395.2,Hom,uk
+374,Laurie Charles,laurie.charles@example.com,01-30-2025,22/07/2024,127.81,Home,United Kingdom
+494,Grace Jones,gracejones@@example.com,06-08-2025,2025-01-14,52.48,Electronics,UK
+484,Jordan Hunter,jordan.hunter@example.com,2025/03/06,10/09/2024,265.24,electronics,usa
+475,Christopher Little,christopher.little@example.com,04-15-2025,08-20-2024,44.25,Fashion,United Kingdom
+404, KELLY JACKSON ,kelly.jackson@example.com,2025/04/08,,28.09,electronics,France
+004,molly russell,molly.russell@example.com,03-28-2025,19/08/2024,38.41,Electronics,FRA
+329,Erin Carter,erin.carter@example.com,2023-13-40,05/10/2024,497.86,Fashion,usa
+220,James Chavez,james.chavez@example.com,25/07/2024,05/01/2025,157.75,Home,UK
+456, christopher sweeney ,christopher.sweeney@example.com,2025/02/20,2025/03/17,212.66,Fashion,UK
+090,Dominique Herring,dominique.herring@example.com,25/07/2024,,459.06,Home,france
+081,Rachel Thomas,rachel.thomas@example.com,2024/12/16,09-28-2024,485.5,Electronics,United Kingdom
+368,Jennifer Ellis,jennifer.ellis@example.com,04/04/2025,2024-12-16,83.38,home,United Kingdom
+164,Rebecca Miller,rebecca.miller@example.com,18/09/2024,2024-07-12,459.59,Fashion,USA
+259, Jonathan Collins ,jonathan.collins@example.com,2023-13-40,02-04-2025,72.38,Electronics,United States
+053,James Harper,,2024-07-19,07-27-2024,468.22,Electronics,usa
+221,MARK SANTOS,mark.santos@example.com,2023-13-40,2023-13-40,248.3,Electronics,france
+408,Regina Smith,regina.smith@example.com,02/11/2024,2025/01/30,186.24,Fashion,UK
+079,Jason Farrell,jason.farrell@example.com,03-18-2025,2025/03/23,140.34,Fashion,uk
+217, James Kelly ,james.kelly@example.com,2025-04-13,,311.97,Hom,france
+228,Barbara Hernandez,barbara.hernandez@example.com,30/07/2024,2025-04-29,316.24,Home,United States
+418,Colleen Cole,colleen.cole@example.com,19/05/2025,2025/04/23,435.61,Home,United Kingdom
+484,John Cox,johncox@@example.com,09/03/2025,24/03/2025,351.9,fashion,usa
+049,SHANNON KING,shannon.king@example.com,2024-09-26,2024/12/31,373.21,Electronics,usa
+344,Kenneth Kim,kenneth.kim@example.com,06-28-2025,2024/08/27,171.51,Fashion,FRA
+127,Tammy Martinez,tammy.martinez@example.com,04-16-2025,2024-12-17,481.51,Home,United Kingdom
+075,Sarah Tate,sarah.tate@example.com,04/12/2024,03/07/2025,368.82,Fashion,France
+324,Craig Nelson,craig.nelson@example.com,05-13-2025,2025/04/06,231.42,Fashion,uk
+166,Pamela Smith,pamela.smith@example.com,17/11/2024,2025-03-02,409.91,Home,United States
+087, Melinda Estes ,melinda.estes@example.com,09-17-2024,29/09/2024,439.65,Home,France
+457,Haley Miller,haley.miller@example.com,06-19-2025,16/06/2025,-43.95,fashio,UK
+215,Shelley Grant,shelley.grant@example.com,08-27-2024,04/05/2025,486.91,Home,UK
+262,Diana Ramirez,diana.ramirez@example.com,2024/11/18,10/07/2024,492.48,Fashion,uk
+014,Debbie Black,debbie.black@example.com,03-11-2025,13/02/2025,271.77,Fashion,United Kingdom
+262,matthew hall,matthew.hall@example.com,01-27-2025,2024-07-30,454.61,Home,UK
+029, Gabrielle Phillips ,gabrielle.phillips@example.com,06/09/2024,2025/04/20,328.68,Electronics,uk
+410,Brett Guzman,brett.guzman@example.com,12-17-2024,30/10/2024,175.42,Electronics,France
+,Kristina Ewing,kristina.ewing@example.com,2025-02-10,2025/05/22,204.95,Fashion,france
+411,robert moody,robert.moody@example.com,2025/05/30,2025/06/05,127.6,Fashion,USA
+247,Gina Burch,,07/12/2024,07/07/2024,244.27,Home,usa
+148,Joseph Carter,joseph.carter@example.com,09-22-2024,04-06-2025,8644.82,Home,France
+416,Justin Levy,justin.levy@example.com,10-13-2024,2025/01/11,339.59,Home,UK
+356,Sheila Smith,sheila.smith@example.com,21/11/2024,05/11/2024,8854.89,Fashion,France
+125, Darrell Curtis ,darrell.curtis@example.com,27/02/2025,2025/04/16,227.74,Electronics,france
+369,Jennifer Hughes,jennifer.hughes@example.com,2024/11/17,2024/09/13,282.77,Fashion,USA
+187,MICHAEL PETERSON,michael.peterson@example.com,2025/06/22,2025/05/22,5274.46,Fashion,uk
+163,sherry thompson,sherry.thompson@example.com,2025/02/08,11-09-2024,338.35,Home,USA
+015,STEVE FREEMAN,steve.freeman@example.com,2025-06-16,03-15-2025,234.56,Home,USA
+341,Erica Gilbert,erica.gilbert@example.com,2025-04-07,01/03/2025,462.23,Home,USA
+238,Keith Joseph DDS,,2024-11-16,02-12-2025,381.78,Home,UK
+234,Jordan Griffin,jordan.griffin@example.com,2025/01/02,27/03/2025,338.33,Electronics,United Kingdom
+384,Jose Preston,jose.preston@example.com,15/04/2025,2025-01-12,141.46,Home,United Kingdom
+224,Richard Morales,richard.morales@example.com,2025-01-15,12-02-2024,467.89,Home,France
+335,Linda Cruz,linda.cruz@example.com,12-17-2024,,190.63,Home,uk
+318,Christina Murillo,christina.murillo@example.com,27/12/2024,11-03-2024,382.28,Electronics,France
+286,Donna Elliott,donna.elliott@example.com,2025-04-13,24/02/2025,77.57,Fashion,france
+127,Laura Wade,laura.wade@example.com,2024-12-25,02-14-2025,379.02,Home,United States
+244,Aaron Briggs,aaron.briggs@example.com,2025-07-03,17/08/2024,333.69,Electronic,France
+047,jason miller,jason.miller@example.com,2025/05/29,2024/07/28,426.52,Home,France
+473,Micheal Martin,michealmartin@@example.com,02-01-2025,,218.36,Fashion,france
+478,Vicki Sherman MD,vicki.sherman.md@example.com,05-28-2025,08-13-2024,83.56,Electronics,UK
+248,Ashley Hubbard,ashley.hubbard@example.com,10-06-2024,2024-08-29,343.9,Fashion,USA
+388,Jill Delgado,jill.delgado@example.com,06-28-2025,,258.76,Electronics,FRA
+109,BARBARA BROWN,barbara.brown@example.com,10-17-2024,,7008.61,Fashion,United States
+395,Kimberly Wood,kimberly.wood@example.com,2025-02-06,04-30-2025,369.83,Home,uk
+234,Lori Watson,lori.watson@example.com,2023-13-40,2024-12-03,157.35,Electronics,UK
+180,John Benton,john.benton@example.com,2025/02/07,,255.31,Home,USA
+271,Debbie Ware,debbie.ware@example.com,2025-02-13,09-12-2024,492.13,Home,
+461,Erik Ward,erik.ward@example.com,2025-02-11,17/06/2025,-23.09,electronics,France
+196, Devin Johnson ,devin.johnson@example.com,11-29-2024,,311.27,Home,uk
+258,John Lamb,john.lamb@example.com,2024/10/05,31/01/2025,299.56,Hom,usa
+485,marissa thompson,marissa.thompson@example.com,2025-01-22,02-09-2025,210.97,Fashion,FRA
+218,travis hayes,travis.hayes@example.com,2023-13-40,02/05/2025,224.33,Fashion,United Kingdom
+475,Michael Watkins,michael.watkins@example.com,2025-05-04,01/02/2025,265.1,Electronics,UK
+359,Marcus Richmond,marcus.richmond@example.com,05/05/2025,2025-01-30,25.95,Fashion,france
+488, Kayla Williams ,,06/08/2024,2024/08/27,135.99,Electronics,France
+363,Jeffrey Clark,jeffrey.clark@example.com,04-27-2025,10-01-2024,160.47,Fashion,usa
+037,Todd Morton,todd.morton@example.com,2025-06-19,12-04-2024,11.93,Electronics,United Kingdom
+310,Rhonda Wright MD,rhonda.wright.md@example.com,2024-08-26,07-06-2024,391.2,Electronics,france
+365, angela wilson ,angela.wilson@example.com,26/05/2025,07-10-2024,283.4,Fashion,United Kingdom
+019,Wendy Murphy,wendy.murphy@example.com,25/06/2025,,66.93,Home,FRA
+054,Glenda Campos,glenda.campos@example.com,2024/12/16,,256.8,Electronics,
+456,haley barnett,haley.barnett@example.com,08-08-2024,04-18-2025,252.49,Fashion,USA
+034,Julie Hernandez,julie.hernandez@example.com,07-20-2024,2025/04/28,347.5,Home,UK
+146,Samuel Kidd,samuel.kidd@example.com,19/10/2024,25/02/2025,146.94,Home,France
+111,Timothy Thomas,timothythomas@@example.com,2025/04/01,07-04-2024,469.06,Home,USA
+063,kayla cohen,kayla.cohen@example.com,2024-12-31,2024-11-01,300.99,Electronics,uk
+218, robert johnson ,robert.johnson@example.com,2024/11/21,08/10/2024,307.88,Electronics,
+017,Christopher Hardin,christopher.hardin@example.com,08/05/2025,11/01/2025,340.99,electronics,usa
+457,Isaac Quinn,isaac.quinn@example.com,03/10/2024,08-02-2024,288.58,Home,FRA
+041,Casey Brown,,06-17-2025,2024/08/26,196.88,fashion,France
+268,sheryl rogers,sheryl.rogers@example.com,2025/01/09,25/10/2024,118.22,electronics,FRA
+358,Jamie White,jamie.white@example.com,2025/01/24,2024-07-20,302.69,Electronics,France
+008,Donald Ortiz,donald.ortiz@example.com,2025-06-22,01-09-2025,74.21,Fashion,USA
+356,James Allen,james.allen@example.com,31/10/2024,07-16-2024,306.8,Fashion,United Kingdom
+472,Clifford Robinson,clifford.robinson@example.com,2023-13-40,2024-11-26,442.76,Electronics,uk
+308,Alvin Tucker,alvin.tucker@example.com,05-25-2025,2024/11/03,226.85,Home,usa
+008,RICHARD HERRERA,richard.herrera@example.com,05-27-2025,08-27-2024,252.89,electronics,usa
+390,Timothy Navarro,timothy.navarro@example.com,2024/10/26,04/11/2024,267.81,Home,
+100,JESSICA SPENCER,jessica.spencer@example.com,2025/03/02,22/02/2025,487.23,Fashion,usa
+413,Michael Nicholson,michael.nicholson@example.com,2024-08-12,09-29-2024,221.89,Fashion,france
+,David Salinas,davidsalinas@@example.com,2024-09-13,,325.12,Electronics,FRA
+, Michele Reid ,michele.reid@example.com,2025-01-09,,464.54,Electronics,france
+316,William Navarro,william.navarro@example.com,2025-02-22,2024-11-05,456.98,Home,United Kingdom
+389,Joe Haynes,joe.haynes@example.com,2024/09/24,2024-07-12,121.56,Home,usa
+038,ROBERTA CHEN,roberta.chen@example.com,08-29-2024,04-29-2025,14.87,Home,uk
+017,Adrienne Brown,adrienne.brown@example.com,04-05-2025,01-03-2025,82.49,Fashion,
+483, Gregory Gordon ,gregory.gordon@example.com,2025-01-07,,337.25,fashion,UK
+241,Joshua Estrada,joshua.estrada@example.com,13/03/2025,2024/07/12,163.59,Electronics,United States
+447,Jason Cortez,jason.cortez@example.com,02-11-2025,11-15-2024,62.85,Home,uk
+387,ISABEL JONES,isabel.jones@example.com,2025/04/05,04-28-2025,157.08,Electronics,USA
+, brian boone ,brian.boone@example.com,06-09-2025,27/01/2025,102.55,Electronics,usa
+493,dr. david bruce,dr..david.bruce@example.com,2023-13-40,2024/08/21,84.85,Fashion,United States
+421,david brown,david.brown@example.com,2023-13-40,2025-02-11,203.94,Fashion,uk
+039,Emily Walker,emily.walker@example.com,2025/05/13,2025-04-01,201.87,Fashion,United States
+127,Michelle Evans,michelle.evans@example.com,22/11/2024,,149.62,Fashion,FRA
+181,John Wilson,john.wilson@example.com,09-08-2024,,415.36,Fashion,USA
+237,Ronald Cole,ronald.cole@example.com,2025-03-20,02-11-2025,432.49,Home,United States
+052,KEVIN HUNTER,kevin.hunter@example.com,2025-06-24,09-11-2024,104.48,Electronics,UK
+460,Adam Pace,adam.pace@example.com,03-28-2025,2023-13-40,471.31,electronics,uk
+487,Christopher Scott,christopher.scott@example.com,26/03/2025,2024/08/29,457.93,Electronics,UK
+171,Matthew Martinez,,27/11/2024,,48.64,Fashion,
+368,Nicole Finley,,02-06-2025,2024/11/24,76.43,Electronics,usa
+318,Kari Guzman,kari.guzman@example.com,2025/04/06,2023-13-40,173.75,Fashion,france
+255,Angela Cummings,angela.cummings@example.com,2024/10/27,03-06-2025,364.29,Electronics,United Kingdom
+070, Jonathan Miller ,jonathan.miller@example.com,07-04-2024,08-13-2024,227.81,Electronics,United States
+294,Eric Montoya,eric.montoya@example.com,2025-01-21,,468.81,Fashion,United States
+226,ROBERT BROWN,robert.brown@example.com,12-27-2024,2025/04/05,387.74,Fashion,United States
+371,JESSICA HAMMOND,jessica.hammond@example.com,2025/03/18,2023-13-40,99.98,Home,UK
+427,Courtney Anderson,courtney.anderson@example.com,2024/08/29,11/02/2025,208.7,Home,United Kingdom
+341,Rebecca Stanton,,2025-06-01,12-06-2024,90.48,Fashion,usa
+088,Karen Baldwin,,2024/12/28,09-22-2024,136.25,Home,United Kingdom
+011,Nicole Rogers,nicole.rogers@example.com,11/06/2025,,207.57,Electronic,France
+071,Dustin Harris,,2024-07-26,2024-09-04,408.29,Electronics,United States
+172,dorothy holland,dorothy.holland@example.com,05/12/2024,09-05-2024,114.17,Electronics,
+132,Cassandra Cook,cassandra.cook@example.com,2024/07/12,2024-10-07,54.97,Home,france
+362,Daniel Reyes,daniel.reyes@example.com,12-28-2024,27/11/2024,48.76,Home,United Kingdom
+463,Kimberly Walker,kimberly.walker@example.com,2023-13-40,04-03-2025,264.05,Fashion,UK
+086,Pamela Bell,pamela.bell@example.com,12-23-2024,06-17-2025,156.42,home,UK
+072,Megan Reed,megan.reed@example.com,03/11/2024,10-01-2024,273.07,Electronics,uk
+149,Patrick Harding,patrick.harding@example.com,01-18-2025,2024/11/16,173.93,Home,
+083,Brandi Ingram,brandi.ingram@example.com,13/10/2024,,278.4,Hom,
+122,Brianna Snyder,brianna.snyder@example.com,12/03/2025,2024/08/03,471.39,Home,United States
+433,Carlos Sanchez,carlossanchez@@example.com,2024/07/09,10-05-2024,362.55,Electronics,FRA
+339,Elizabeth Patterson,elizabeth.patterson@example.com,19/03/2025,06-22-2025,283.75,Home,FRA
+312,Jonathon Lucero,jonathon.lucero@example.com,07-20-2024,03/09/2024,119.87,Fashion,uk
+128,ROBERT LANE,robert.lane@example.com,2024-11-11,2024/12/05,338.77,Electronics,USA
+236,Adam Scott,adam.scott@example.com,08-11-2024,2024/07/17,218.92,Home,uk
+260, Kristopher Thomas ,kristopher.thomas@example.com,14/04/2025,2024/12/06,97.43,Electronics,United States
+181,jared lara,jared.lara@example.com,2024/09/05,12-07-2024,100.42,Fashion,UK
+329,Dylan Medina,dylan.medina@example.com,2023-13-40,2024-08-12,146.16,Home,USA
+195,erika mcneil,erika.mcneil@example.com,04-05-2025,2023-13-40,70.46,Hom,France
+246,Cesar Watson,cesarwatson@@example.com,11/12/2024,,36.89,fashion,United States
+339,Ryan Banks,ryan.banks@example.com,15/11/2024,2025/01/22,111.93,Electronics,FRA
+336, Guy Deleon ,guy.deleon@example.com,2023-13-40,2025/03/09,377.65,Fashion,
+153,Kristine Bartlett,kristine.bartlett@example.com,07-29-2024,2024-12-11,48.63,Home,uk
+179,SARAH LOPEZ,sarah.lopez@example.com,2024-07-11,,161.26,Fashion,FRA
+018,Jerry Singleton,jerry.singleton@example.com,2024/11/14,,216.16,Home,United States
+441,JESSICA HARRIS,jessica.harris@example.com,2025/05/23,25/06/2025,117.28,fashion,
+049,Angelica Mitchell,angelica.mitchell@example.com,2025-03-01,2025-05-31,268.53,Electronics,UK
+105,Christopher Hill,christopher.hill@example.com,26/03/2025,2025/02/08,6434.26,Home,usa
+097,Patricia Williams,patricia.williams@example.com,2025/02/04,2025/05/23,64.63,Home,United Kingdom
+356,Andrea Hart,andrea.hart@example.com,2025/02/07,12/08/2024,152.62,Fashion,france
+290, paul moore ,paul.moore@example.com,2024/11/30,05/02/2025,183.45,Fashion,France
+324,Aaron Solis,aaronsolis@@example.com,2025-03-15,2025/05/16,67.91,fashion,usa
+474,Kristina Nielsen,,19/03/2025,2025/01/08,392.46,Electronics,United States
+459,Michael Lopez,michaellopez@@example.com,2024/07/09,2024/08/25,142.37,home,uk
+126,Marcus Smith,marcus.smith@example.com,23/09/2024,2025/03/07,462.47,Electronics,United Kingdom
+118,Edward Herman,edward.herman@example.com,04/06/2025,2025-04-29,137.52,Home,USA
+341,Deanna Ochoa,deanna.ochoa@example.com,18/11/2024,08-15-2024,452.18,Fashion,uk
+496,Kelly Williams,kelly.williams@example.com,04/10/2024,08/08/2024,335.08,Home,france
+095,Thomas Martinez,thomas.martinez@example.com,06/12/2024,2024/09/11,44.77,Home,United States
+146,Billy Dixon,,22/02/2025,2024-08-22,464.18,Home,United Kingdom
+155,Mark Golden,mark.golden@example.com,09/12/2024,,483.77,Fashion,usa
+083,Joseph Rivera,joseph.rivera@example.com,2024/11/21,29/09/2024,77.04,Home,uk
+209,Peter Hall,peter.hall@example.com,2025/01/07,2025-06-25,352.94,Electronics,usa
+252,William Smith,william.smith@example.com,30/04/2025,2024-08-28,87.39,electronics,FRA
+025,Brenda White,brenda.white@example.com,2023-13-40,2025-01-06,108.75,Fashion,FRA
+003,Dwayne Martin,dwayne.martin@example.com,2024-11-04,08/01/2025,183.19,Fashion,
+407,Scott Burton,scott.burton@example.com,2023-13-40,,339.42,Fashion,usa
+470,Barbara Flores,barbara.flores@example.com,2024/09/10,05-13-2025,264.5,Fashion,FRA
+102,Lisa Merritt DDS,lisa.merritt.dds@example.com,2024/12/24,2023-13-40,267.56,Electronics,france
+188,Teresa Escobar,teresa.escobar@example.com,04-16-2025,01-05-2025,483.29,Electronics,uk
+105,robert atkins,robert.atkins@example.com,2024-11-16,2025-04-04,397.73,Electronics,France
+184,William Keller,william.keller@example.com,08-23-2024,2025/02/12,432.72,Electronics,UK
+229,Jordan Pena,jordan.pena@example.com,13/06/2025,2025/03/18,57.65,Electronics,USA
+385,William Hayes,william.hayes@example.com,2023-13-40,2024/08/09,124.65,Fashion,usa
+078,Daniel Schroeder,daniel.schroeder@example.com,02/06/2025,07/08/2024,97.26,Electronics,United States
+195,David Miranda,david.miranda@example.com,04-25-2025,10-17-2024,-85.02,fashion,France
+208,Sandra Golden,sandra.golden@example.com,11/06/2025,2025-03-13,331.29,Fashio,France
+293,John Lucas,john.lucas@example.com,2024/09/19,04/04/2025,283.91,Home,FRA
+307,Deborah Burton,deborah.burton@example.com,03-11-2025,,252.54,electronics,uk
+147,Arthur Blair,arthur.blair@example.com,2025/04/16,26/04/2025,349.14,Home,france
+035,Joshua Murphy,joshua.murphy@example.com,26/05/2025,10-13-2024,92.45,Home,FRA
+287,michelle harris,michelle.harris@example.com,2025-02-14,05-25-2025,309.51,Fashion,United Kingdom
+205,Jonathon Walsh,jonathon.walsh@example.com,2024-08-05,2025/01/24,129.58,Home,France
+402,Michelle Sullivan,michelle.sullivan@example.com,24/11/2024,2025/06/27,176.56,Fashion,
+366,Christina Clark,christina.clark@example.com,06-16-2025,2024/08/31,152.23,Fashion,USA
+499,Michael Watson,michael.watson@example.com,03-12-2025,07/07/2024,99.8,Home,france
+098,Tracy Hubbard,tracy.hubbard@example.com,2025/01/14,04-14-2025,196.1,Fashion,United Kingdom
+365,Christine Costa,christine.costa@example.com,2024/11/13,2025/04/17,72.0,fashion,United States
+107,JULIE ROGERS,julie.rogers@example.com,2024-07-24,25/08/2024,55.41,Home,uk
+357,Andrew Smith,andrew.smith@example.com,2025/04/24,2025-03-17,66.94,home,United Kingdom
+383,SHERRY THOMAS,sherry.thomas@example.com,06-16-2025,21/11/2024,176.53,Electronics,France
+363,Hannah Wheeler,hannah.wheeler@example.com,2024-11-07,10-31-2024,434.0,Fashion,uk
+252,Carlos Rose,carlos.rose@example.com,01-17-2025,11-28-2024,340.62,Fashion,uk
+255,BRANDY JACKSON,brandy.jackson@example.com,07-25-2024,05/11/2024,93.36,Electronics,USA
+054,Kelsey Perez,kelsey.perez@example.com,05/04/2025,2025/04/24,1383.95,Fashion,United States
+287, Lisa Roberts ,lisa.roberts@example.com,04/04/2025,2025/03/08,54.62,Fashion,france
+210,Tina Miller,tina.miller@example.com,24/11/2024,2023-13-40,121.62,Fashion,FRA
+258,Oscar Gomez,oscar.gomez@example.com,09-08-2024,05/03/2025,95.98,Home,United Kingdom
+342,Riley Hinton,riley.hinton@example.com,2025-02-04,30/07/2024,45.72,Electronics,UK
+353,Antonio Snyder,antonio.snyder@example.com,2025-04-22,,183.03,Home,United Kingdom
+297,Ryan Cervantes,ryan.cervantes@example.com,06-28-2025,,193.97,Home,USA
+070,Shelby Robles,shelby.robles@example.com,05-31-2025,09-12-2024,164.27,Fashion,uk
+112,Brenda Mendez,brenda.mendez@example.com,2024/11/19,,335.96,Fashion,FRA
+241,Jeffrey Thomas,jeffrey.thomas@example.com,2025-06-19,2024/12/29,448.02,Fashion,UK
+243,Kimberly Gibson,kimberly.gibson@example.com,2025/06/17,2024-08-20,106.97,Electronics,United States
+170,Maria Nguyen,maria.nguyen@example.com,2024/12/02,2025/01/02,375.52,home,
+339,Danny Howe,danny.howe@example.com,07/02/2025,11-10-2024,157.58,Electronics,uk
+056,Bryan Atkinson,,2025/03/20,03-04-2025,122.69,Fashion,USA
+436,Victoria Wyatt,victoria.wyatt@example.com,2024-12-21,03/12/2024,265.13,Electronics,usa
+187, MEREDITH FRANCIS ,meredith.francis@example.com,2024-10-17,2025/03/17,261.19,Electronics,UK
+322,Ricky Bennett,ricky.bennett@example.com,2024-07-09,06-18-2025,113.73,Electronics,France
+295,Phillip Rice,phillip.rice@example.com,07/11/2024,06/01/2025,385.76,Fashion,
+044, Kerry Evans ,kerry.evans@example.com,26/03/2025,09/04/2025,290.52,Fashion,france
+321,Tamara Brown,tamara.brown@example.com,2025/02/12,2025-06-29,389.77,Fashio,USA
+159,Roger Lawson,roger.lawson@example.com,2025/01/30,02/06/2025,274.98,Electronics,france
+423,Andrew Hawkins DDS,andrew.hawkins.dds@example.com,2024/12/29,2024/12/04,283.34,Fashion,United Kingdom
+338,karen leon,,2025/01/27,2025/06/07,418.83,Electronics,UK
+187,Sara Andrews,sara.andrews@example.com,2025-06-08,10-21-2024,462.35,Fashion,UK
+281,Julie Kerr,julie.kerr@example.com,11-11-2024,12/01/2025,192.42,Home,France
+346,Shawn Clark,shawn.clark@example.com,2024/09/09,2024-08-06,173.95,Electronics,UK
+089,Jeffrey Cox PhD,jeffrey.cox.phd@example.com,02-23-2025,01-31-2025,491.23,Home,United Kingdom
+415,Jaclyn Garcia,,2024/09/24,16/01/2025,8363.68,Electronics,
+406,benjamin clay,benjamin.clay@example.com,2024/10/22,2024/12/24,28.98,Fashio,FRA
+224,Robert Douglas,robert.douglas@example.com,25/12/2024,2024/08/05,346.18,Home,
+496,Kimberly Oliver,kimberlyoliver@@example.com,2024/11/18,26/09/2024,475.78,Electronics,UK
+016,Heather Tran,heather.tran@example.com,2025/01/04,2024-07-11,141.59,Home,france
+383,Kyle Miller,kyle.miller@example.com,2025/07/02,01-31-2025,468.23,Hom,France
+451,Suzanne Stanton,suzanne.stanton@example.com,2025/04/17,,319.25,Electronics,usa
+268,Belinda Pittman,belinda.pittman@example.com,2025/07/03,2025-06-17,427.23,Home,uk
+401,Linda Peterson,linda.peterson@example.com,05-26-2025,15/04/2025,462.11,Home,UK
+003,Jennifer Prince,jennifer.prince@example.com,2024/08/30,09-07-2024,203.92,Home,UK
+477,matthew hansen,matthew.hansen@example.com,07-03-2025,23/11/2024,62.78,Home,FRA
+013,John Scott,john.scott@example.com,2025-03-09,2024-09-24,488.6,Home,FRA
+383,Gregory Harris,gregory.harris@example.com,2025-07-02,2024-12-24,164.7,Electronics,UK
+156,Adrian Mcclain,adrian.mcclain@example.com,2023-13-40,06-01-2025,114.99,electronics,FRA
+186,Denise Castaneda,denise.castaneda@example.com,2024-11-06,02-05-2025,481.37,Fashion,United Kingdom
+259,joshua mcdaniel,joshua.mcdaniel@example.com,2024/11/22,17/07/2024,223.62,Electronics,France
+056,Parker Lopez,parker.lopez@example.com,2024/12/25,18/03/2025,115.25,hom,uk
+453,Leslie Young,leslie.young@example.com,2024/11/26,27/12/2024,169.23,Fashion,France
+215,Cathy Day,cathy.day@example.com,09-29-2024,2024/07/08,65.68,Electronics,FRA
+157,JONATHAN WALLER,jonathan.waller@example.com,09-17-2024,2025/05/24,159.52,Electronics,United States
+455,erika morrison,erika.morrison@example.com,2025-03-15,01-04-2025,399.61,Fashion,UK
+191,David Stevenson,david.stevenson@example.com,2024-07-06,07/05/2025,133.73,Fashion,France
+423,Rebecca Turner,rebecca.turner@example.com,2024-09-11,2025/06/14,298.0,Fashion,France
+416,anthony terrell,anthony.terrell@example.com,08-03-2024,14/05/2025,271.02,Home,uk
+360,Justin Kelly,justin.kelly@example.com,24/12/2024,2024-08-25,422.1,Home,UK
+190,Tammy Jackson,tammy.jackson@example.com,04-08-2025,2024-08-07,412.08,Fashion,France
+103,theresa alexander,,2024-12-12,2025/05/13,126.76,Home,uk
+337,Tina Barron,tina.barron@example.com,2024-12-29,06-21-2025,255.73,Home,
+385,Caleb Sawyer,caleb.sawyer@example.com,27/10/2024,15/06/2025,1438.74,Electronics,United States
+098,Michael Clements,michael.clements@example.com,15/07/2024,08-21-2024,257.93,Fashion,france
+282,Mr. Richard Wilkins MD,mr..richard.wilkins.md@example.com,01-07-2025,,361.32,Electronics,usa
+166,Charles Lewis,charles.lewis@example.com,08/07/2024,23/06/2025,235.75,electronics,usa
+171,susan jones,susan.jones@example.com,04-26-2025,21/08/2024,126.35,Electronic,USA
+013,Steven Heath,steven.heath@example.com,2025-05-22,03/06/2025,77.66,Fashion,UK
+447,Cheryl Black,cheryl.black@example.com,2025/01/02,11-16-2024,226.52,Home,
+180,melanie davis,melanie.davis@example.com,2025-02-04,01/10/2024,1154.47,Fashion,United States
+011,Judith Dyer,judith.dyer@example.com,2025-01-12,03/08/2024,487.23,Fashion,FRA
+088,james baker,james.baker@example.com,2025-05-25,07-12-2024,44.43,Electronics,United States
+026,Sylvia Davis,sylvia.davis@example.com,18/02/2025,2024-07-29,332.31,Electronics,uk
+395,Philip Jones,philip.jones@example.com,09-30-2024,2025-02-28,455.53,Electronics,UK
+188,Rebecca Smith,rebecca.smith@example.com,06/12/2024,,359.2,Fashion,france
+455,Dr. Joseph Bryant,dr..joseph.bryant@example.com,2025/03/18,2024/08/06,297.69,Fashion,usa
+449,Jeffrey Clark,jeffrey.clark@example.com,2023-13-40,22/02/2025,151.43,Electronics,FRA
+498,ANNETTE RODRIGUEZ,annette.rodriguez@example.com,2024-10-17,2025-06-03,-34.56,Fashion,United States
+186,Jennifer Nolan,jennifer.nolan@example.com,2025-04-14,02-16-2025,140.96,Fashion,United Kingdom
+482,Ashlee Martinez,ashlee.martinez@example.com,03-31-2025,04/05/2025,203.55,Electronics,uk
+492,Melissa Sanchez,melissa.sanchez@example.com,2023-13-40,2024/12/22,312.93,Fashion,France
+233,KATHLEEN DUFFY,kathleen.duffy@example.com,2024-08-07,2025-01-16,226.82,Fashion,USA
+111,Christine Herrera,christine.herrera@example.com,2024/11/12,2025/02/01,49.48,Home,FRA
+471,melissa perez,melissa.perez@example.com,24/07/2024,2023-13-40,38.61,Fashion,france
+331,Kristen Parker,kristen.parker@example.com,05-28-2025,30/01/2025,303.86,Electronics,United States
+235,Kyle Lester,kyle.lester@example.com,09-23-2024,2024-08-01,95.65,Electronics,FRA
+425,Gabrielle Davis,gabrielle.davis@example.com,09-27-2024,01/10/2024,142.98,Electronics,france
+075,Roberto Stark,roberto.stark@example.com,09-30-2024,2025/03/30,166.06,Electronic,FRA
+004,Jonathan Wright,jonathan.wright@example.com,2025-04-10,2024/11/09,497.33,Electronics,
+239,Jeffery Allen,jeffery.allen@example.com,13/02/2025,2024/07/28,458.59,Fashion,UK
+090,Michael Romero,michaelromero@@example.com,2025/02/01,2024/12/08,449.27,Home,FRA
+405,Ashley Long,ashley.long@example.com,24/08/2024,2025/05/05,19.49,home,United Kingdom
+087,April Young,april.young@example.com,09-04-2024,2023-13-40,385.59,Fashion,UK
+197,JOHNATHAN JORDAN,johnathan.jordan@example.com,07/10/2024,2025/05/27,295.13,Fashion,FRA
+319,Aaron Robinson,aaron.robinson@example.com,2024/11/18,2025/06/23,151.41,Fashion,
+261,austin turner,austin.turner@example.com,08-12-2024,2025/05/12,48.4,Electronics,France
+243,Henry Smith,henry.smith@example.com,02-22-2025,,374.4,Fashion,France
+250,Brendan Marks,brendan.marks@example.com,2024/08/20,2025-01-23,197.72,Home,usa
+095,Angela Mckee,angela.mckee@example.com,11-23-2024,,424.82,Home,usa
+439,jennifer nelson,jennifer.nelson@example.com,11-27-2024,2024/07/05,298.78,Electronics,UK
+103,LESLIE WALLACE,leslie.wallace@example.com,2024/11/17,2025-01-24,420.23,Electronics,UK
+086,david clark,david.clark@example.com,2025-06-26,04-08-2025,98.59,Electronics,France
+288,Mark Woods,mark.woods@example.com,05/11/2024,2025/04/09,171.32,Home,uk
+397,Blake Hoffman,blake.hoffman@example.com,2025/06/23,03-31-2025,284.98,Fashion,France
+143,CHAD WILLIAMS,chad.williams@example.com,28/07/2024,2023-13-40,216.5,Electronics,uk
+362,Jeff Carter,jeff.carter@example.com,10-27-2024,2025-01-30,5497.01,Home,usa
+225,Alex Mathews,alex.mathews@example.com,11-16-2024,,384.84,Home,USA
+327,STEVE SULLIVAN DDS,steve.sullivan.dds@example.com,2024/12/28,2025-04-14,165.09,Home,United Kingdom
+158, Amber Flores ,,2025/07/02,2024-09-22,104.17,Fashion,
+434,Cheryl Wright,cheryl.wright@example.com,07-07-2024,18/04/2025,45.47,Electronic,FRA
+122,Adam Campbell,adam.campbell@example.com,2024/10/18,11-18-2024,499.76,home,usa
+401,JEFFREY MOORE,jeffrey.moore@example.com,08/09/2024,,33.97,Electronics,usa
+044,Ronald Spencer,ronald.spencer@example.com,2025/06/21,2023-13-40,-76.01,Fashion,United States
+235,Jennifer Norman,jennifer.norman@example.com,2024-11-02,,267.26,Home,UK
+069,Kenneth Campbell,kenneth.campbell@example.com,11-17-2024,09-04-2024,203.89,Fashion,france
+393,AMANDA WILKINS,amanda.wilkins@example.com,2023-13-40,2024-10-22,327.77,Home,UK
+472, Sherri Benitez ,sherri.benitez@example.com,05-06-2025,10-13-2024,295.45,Electronic,france
+191,Jennifer Robinson,jennifer.robinson@example.com,24/06/2025,10-13-2024,353.75,Home,France
+437,Loretta Brooks,loretta.brooks@example.com,2024/11/02,2025-06-29,-85.66,Electronics,france
+402,Mary Bennett,mary.bennett@example.com,2024-09-23,2025/06/05,398.48,Electronics,UK
+413,Joel Baldwin,joel.baldwin@example.com,2023-13-40,13/03/2025,474.04,Home,FRA
+410, Kristin Martinez ,kristin.martinez@example.com,09-04-2024,2025/02/09,388.49,Home,uk
+300,michael jones,michael.jones@example.com,2025-01-20,07/08/2024,405.18,Fashion,United States
+126,Terry Reilly,terry.reilly@example.com,2025/02/21,,490.16,Home,USA
+453,JULIE MAY,juliemay@@example.com,10-22-2024,2025-05-06,418.68,Fashion,United States
+376,Angela Cervantes,angela.cervantes@example.com,08-15-2024,02/10/2024,132.42,Electronics,France
+464,Karen Brooks,karen.brooks@example.com,2025-03-08,08/09/2024,422.97,Fashion,france
+166,Olivia Soto,olivia.soto@example.com,03-30-2025,,412.11,Home,FRA
+338,Pedro Hartman,,2024-09-09,2025-03-01,344.38,Electronics,France
+096,MR. COREY WILSON,mr..corey.wilson@example.com,2024/11/29,2025/05/10,190.59,Electronics,United Kingdom
+437,Katie Silva,katie.silva@example.com,30/10/2024,02-22-2025,104.02,Fashion,usa
+294,Pamela Bowen,pamela.bowen@example.com,01-30-2025,2024-08-27,17.89,Electronics,United Kingdom
+105,Joseph Hill,joseph.hill@example.com,05/03/2025,2023-13-40,238.07,Home,USA
+049,Christina Miller,christinamiller@@example.com,07-08-2024,07-13-2024,324.68,Electronics,UK
+237,Mark Burke,mark.burke@example.com,2025-05-10,2024/10/04,377.91,Fashion,United Kingdom
+187, Kirk Herrera ,,2023-13-40,25/07/2024,36.75,Fashion,USA
+384,Seth Bradley,seth.bradley@example.com,2025-04-24,,250.9,Fashion,United States
+097,Debra Hayes,debra.hayes@example.com,2025/06/07,2025/06/09,-98.65,Home,France
+427,Deanna Curry,deanna.curry@example.com,27/04/2025,2024-07-05,279.8,Electronic,United States
+225,Stephanie Perez,stephanieperez@@example.com,05/02/2025,10-30-2024,176.29,electronics,United Kingdom
+258, CHLOE ESTRADA ,chloeestrada@@example.com,2025/02/20,30/07/2024,102.32,Home,FRA
+304,Daniel Howard,daniel.howard@example.com,2025-02-10,,444.23,Fashion,FRA
+011,Margaret Casey,margaret.casey@example.com,2024-11-24,2024/09/04,428.63,Fashion,france
+380,Paula Williams,paula.williams@example.com,21/12/2024,2025/02/02,-85.48,Electronics,france
+430,CHRISTIAN COLE,christian.cole@example.com,21/09/2024,29/12/2024,296.31,Electronics,france
+481,Sara Doyle,sara.doyle@example.com,05/04/2025,,133.07,home,
+301,BROOKE LITTLE,brooke.little@example.com,2024-11-29,2025-05-27,43.01,Electronics,UK
+264,Hannah Mitchell,hannah.mitchell@example.com,2023-13-40,16/04/2025,268.11,Electronics,France
+242,Makayla Meadows,makayla.meadows@example.com,10/12/2024,12/05/2025,480.55,Electronics,USA
+065,Vanessa Gordon,vanessa.gordon@example.com,10/12/2024,2024-09-01,441.07,Electronics,UK
+389,Kimberly Butler,kimberly.butler@example.com,02-24-2025,2025-06-13,446.4,Fashion,UK
+432,Leslie Acevedo,leslie.acevedo@example.com,2024-11-04,19/02/2025,479.61,Hom,UK
+149,Eric Brady,eric.brady@example.com,06-30-2025,08/08/2024,20.53,Electronics,
+442,ROBERT LAM,,01-10-2025,2025-04-25,460.52,Electronic,United Kingdom
+309, David Collier ,david.collier@example.com,2025/04/17,,289.07,Fashion,usa
+186,April Calhoun,april.calhoun@example.com,03/02/2025,2024-12-27,414.4,Home,UK
+131,Mrs. Rebecca Hill,mrs..rebecca.hill@example.com,2024-11-30,2024/08/15,48.53,Electronics,FRA
+034,Lisa Mccarthy,lisa.mccarthy@example.com,05/04/2025,2024/08/22,370.86,home,usa
+364,Chris Cox,chris.cox@example.com,04-29-2025,02/05/2025,233.27,Fashion,FRA
+490,Keith Morris,keith.morris@example.com,2025/05/25,10/11/2024,43.99,Home,France
+227,Heidi Wood,heidi.wood@example.com,13/12/2024,2024/12/22,51.79,Home,france
+151, julie lawson ,julie.lawson@example.com,09/08/2024,08-02-2024,315.55,Fashion,uk
+101,Kathy Jackson,kathy.jackson@example.com,2025/06/19,07-28-2024,180.26,Home,france
+493,Amber Garner,ambergarner@@example.com,2025-06-23,2025/04/11,474.43,Fashion,
+348,Courtney Lamb,courtney.lamb@example.com,2025/03/22,,484.31,Fashion,USA
+377,Thomas Hurst,thomas.hurst@example.com,2025/02/22,08/06/2025,242.99,Home,france
+334,Jason Benson,jason.benson@example.com,12-05-2024,2024-07-05,256.67,Fashion,United States
+211,Holly Davis,holly.davis@example.com,2024/10/09,2024/12/24,168.35,Home,United States
+023,James Townsend,james.townsend@example.com,2025/01/22,2023-13-40,345.95,Home,United Kingdom
+167,Todd Donovan,todd.donovan@example.com,2025/05/23,2024/12/01,219.95,Electronics,FRA
+386,Brent Jones,brent.jones@example.com,10/10/2024,2024/07/19,163.04,Home,france
+,Robert Hopkins,robert.hopkins@example.com,2025-05-17,2025/01/17,83.84,Electronics,FRA
+255,Jason Hall,jason.hall@example.com,2024-10-03,2023-13-40,197.01,Home,France
+189,Chris Green,chris.green@example.com,12-12-2024,2025/06/05,65.65,Fashion,UK
+165,Brandon Cook,brandon.cook@example.com,11-26-2024,2025/05/27,4653.76,Electronics,United States
+234, Whitney Mason DDS ,whitney.mason.dds@example.com,2025/06/27,2025-05-04,47.81,Electronics,uk
+365,DEANNA WILLIAMSON,deanna.williamson@example.com,2025-02-06,,438.26,Home,uk
+410,Lori Newman,,2025/01/03,01-05-2025,74.11,Home,FRA
+366, Stefanie King ,stefanie.king@example.com,26/10/2024,06-01-2025,180.03,Electronics,
+102,Linda West,linda.west@example.com,2025/02/11,2023-13-40,206.59,Electronics,USA
+208,Felicia Allen,felicia.allen@example.com,17/11/2024,2024-10-26,202.43,Electronics,United Kingdom
+499,Sandra Romero,sandra.romero@example.com,08-05-2024,2024/07/22,358.03,Home,USA
+185, Mary Silva ,mary.silva@example.com,05-17-2025,22/11/2024,258.19,Home,uk
+354,Michael Ayers,michael.ayers@example.com,07/11/2024,2025/05/09,475.51,Home,United States
+192,James Howard,james.howard@example.com,11-01-2024,2024/09/30,450.64,Home,uk
+463,EMILY GIBBS,emily.gibbs@example.com,11-02-2024,2024/07/14,17.02,Fashion,usa
+148,Kevin Medina,kevin.medina@example.com,19/03/2025,2025-05-25,336.6,Electronics,UK
+155,Cody Rice,cody.rice@example.com,2024-08-07,10-05-2024,117.85,Fashion,uk
+072, Andres Maldonado ,andres.maldonado@example.com,2025-05-13,08-31-2024,201.25,Fashion,United States
+291,Christie Fernandez,christie.fernandez@example.com,05/11/2024,2024/12/27,242.74,Home,France
+,Jason Rivera,jason.rivera@example.com,2025-02-26,2025-02-11,415.23,Home,france
+231, albert thompson ,albert.thompson@example.com,05/11/2024,2025-03-22,451.14,Home,usa
+432,Mike Sheppard,mike.sheppard@example.com,21/12/2024,08-06-2024,237.12,Fashion,United States
+416,Katherine Phillips,katherinephillips@@example.com,12-22-2024,08-14-2024,195.6,Fashion,UK
+372,Alexander Johnson,alexander.johnson@example.com,04-16-2025,05-15-2025,282.99,Electronics,UK
+165,Jessica Miller MD,jessica.miller.md@example.com,2023-13-40,2025-01-19,323.58,Fashio,france
+163,ROBERT HUMPHREY,robert.humphrey@example.com,2025/04/17,2025/04/09,445.6,Fashion,United States
+318,CATHERINE RANDALL,catherinerandall@@example.com,2024-08-18,04/12/2024,255.42,electronics,usa
+237,Timothy Davis,timothy.davis@example.com,03/12/2024,01/08/2024,91.05,Fashion,
+149,Natalie Krueger,natalie.krueger@example.com,08-16-2024,17/07/2024,18.49,Fashion,france
+412,ANGELA WILLIAMS,angela.williams@example.com,07-11-2024,28/10/2024,443.33,Home,France
+500,Tiffany Morgan,tiffany.morgan@example.com,2025-01-10,13/07/2024,310.03,Electronics,UK
+449,Brandon Ibarra,,2025-06-04,2024-08-30,154.13,Electronics,USA
+324, ROBERT SHEPPARD ,robert.sheppard@example.com,2024-08-21,,263.47,Electronics,United States
+202,Michael Reid,michael.reid@example.com,15/03/2025,2024/07/23,183.54,Electronics,France
+345,scott white,scott.white@example.com,03-07-2025,04-14-2025,277.04,Electronics,UK
+312,John Oconnor,john.oconnor@example.com,2025/02/21,2024/07/14,246.67,Electronics,United States
+228,Allen Harding,allen.harding@example.com,06-27-2025,2025/06/22,239.12,Electronics,France
+322,Steve French,stevefrench@@example.com,13/04/2025,09/02/2025,127.91,Electronics,USA
+014,Catherine Johnson,catherine.johnson@example.com,2024/09/24,03-12-2025,171.04,Electronics,usa
+469,Neil Gordon,,2025/03/20,2024/12/14,204.84,Electronics,france
+286,dominique moore,dominique.moore@example.com,07/08/2024,12-07-2024,326.29,Home,usa
+291,Felicia Peterson,felicia.peterson@example.com,07/11/2024,2024-12-11,465.01,Fashion,United States
+151,Shannon Barnes,shannon.barnes@example.com,2025-06-03,12-18-2024,369.58,Home,france
+148,Eileen Irwin,,09/08/2024,17/10/2024,57.73,Home,United Kingdom
+272,Denise Valdez,denise.valdez@example.com,2025/03/29,2024-08-20,397.48,Home,United Kingdom
+381,Stacie Day,stacie.day@example.com,2024/08/27,05/05/2025,359.32,Electronics,USA
+315,Patrick Garcia,patrick.garcia@example.com,2024-09-18,07-23-2024,42.92,Home,france
+249,Amber Peterson,amber.peterson@example.com,2024-09-10,20/02/2025,430.97,Electronics,usa
+042,Victoria Rivera,victoria.rivera@example.com,08-26-2024,,-65.95,Electronics,usa
+154,Martha Howell,martha.howell@example.com,2025-05-28,13/06/2025,37.7,Home,France
+056,OLIVIA LEE DDS,olivia.lee.dds@example.com,09-18-2024,2025-06-21,3833.65,Electronics,uk
+114,Darryl Stafford,darryl.stafford@example.com,02-18-2025,09-19-2024,107.15,Electronics,USA
+145,Jennifer White,jennifer.white@example.com,06-26-2025,,121.64,Electronics,france
+288, Gloria Wallace ,gloria.wallace@example.com,05/12/2024,2025-04-10,99.47,Home,uk
+192,Joseph Rodriguez,joseph.rodriguez@example.com,2024/09/10,02-17-2025,475.47,Electronics,United States
+,Michael Wood,michael.wood@example.com,02-19-2025,2024-10-13,21.42,Hom,uk
+256,Michelle Kelley,michelle.kelley@example.com,2024/09/20,,238.13,Fashion,usa
+339,Timothy Smith,,03/07/2024,2024-12-15,386.69,fashion,France
+077,lori campos,lori.campos@example.com,2025-01-01,2025/02/18,254.34,Electronics,usa
+195,Megan Hess,megan.hess@example.com,02-12-2025,2024-07-03,151.98,Electronics,
+090,Samantha Moore,samantha.moore@example.com,2025/06/09,2025-04-10,104.34,Hom,FRA
+246, Mr. John Barnes ,mr..john.barnes@example.com,2025/01/13,2024-09-20,423.55,Hom,United Kingdom
+440,Kimberly Mckenzie,kimberly.mckenzie@example.com,11-23-2024,17/08/2024,400.39,Fashion,United States
+025,Michele Moore,michele.moore@example.com,27/03/2025,2025/06/29,330.39,Fashion,france
+111,Gerald Trujillo,gerald.trujillo@example.com,09-21-2024,2024-07-16,456.62,Home,
+284, tracy gibson ,tracy.gibson@example.com,2024-07-15,2023-13-40,259.68,Electronics,france
+288,Brandon Robinson,brandon.robinson@example.com,2025/02/13,2025-03-12,404.72,Electronics,USA
+347, Heather Marquez ,heather.marquez@example.com,29/04/2025,,336.58,home,FRA
+213,Jenna Hayes,jenna.hayes@example.com,30/06/2025,2024/07/18,24.33,Electronics,usa
+061,melissa little,melissa.little@example.com,18/01/2025,2024/12/07,137.56,Home,USA
+276, Andrew Higgins ,andrewhiggins@@example.com,2024/12/26,25/12/2024,139.27,Electronics,usa
+136,james harmon,james.harmon@example.com,2023-13-40,2025/03/23,172.84,home,usa
+216,Steven Coleman MD,steven.coleman.md@example.com,01-28-2025,2025/03/19,66.44,Home,United Kingdom
+241,Jeffrey Clarke,jeffrey.clarke@example.com,06-05-2025,20/02/2025,33.52,Home,usa
+132,Joseph Jones,joseph.jones@example.com,2023-13-40,01-14-2025,136.8,Hom,United Kingdom
+226,Natasha Shaw,natasha.shaw@example.com,2024-11-08,2025-03-14,132.97,Electronics,uk
+491,Danny Jenkins,danny.jenkins@example.com,11-25-2024,2024/11/12,200.67,Fashion,usa
+,James Espinoza,james.espinoza@example.com,2025-03-17,07-21-2024,326.88,home,United Kingdom
+380,Joshua Reed,joshua.reed@example.com,2024/10/28,02-12-2025,132.47,Fashion,United Kingdom
+163,Kevin Graves,kevin.graves@example.com,2025/03/10,03-04-2025,232.9,Fashion,uk
+161,Ann Weiss,ann.weiss@example.com,2024-11-21,2025-03-13,162.84,Electronics,usa
+371,Stacy Rodriguez,stacy.rodriguez@example.com,05-30-2025,02-18-2025,129.07,electronics,United Kingdom
+268,Gregory Stewart,gregory.stewart@example.com,09-07-2024,,-42.1,Fashion,FRA
+408,Anthony Johnson,anthony.johnson@example.com,05-15-2025,28/11/2024,294.62,Home,usa
+485,JOHN WAGNER,john.wagner@example.com,2025-06-24,16/07/2024,479.21,fashion,United Kingdom
+429,Karen Aguilar,karen.aguilar@example.com,2024/09/04,2023-13-40,421.82,Electronics,france
+170,Nichole Berger,nichole.berger@example.com,03-17-2025,,242.47,Fashion,UK
+491,Stacey Buck,stacey.buck@example.com,29/07/2024,2024-11-18,169.4,Fashion,FRA
+318,Juan Herrera,juan.herrera@example.com,05/04/2025,10-09-2024,361.69,Electronics,United States
+241,lori coffey,lori.coffey@example.com,05-06-2025,2024/07/06,156.25,Fashion,france
+311,Shawn Frazier,shawn.frazier@example.com,28/01/2025,12-16-2024,228.64,Fashion,United Kingdom
+462,keith smith,keith.smith@example.com,2025-06-04,2025-04-08,120.04,Electronics,United Kingdom
+114,Elizabeth Mayer,elizabeth.mayer@example.com,09/10/2024,2023-13-40,239.66,Electronics,uk
+228,Richard Carey,richard.carey@example.com,2025-04-29,12-05-2024,335.23,Fashion,france
+411,Todd Wiggins,todd.wiggins@example.com,27/10/2024,2024-12-09,493.58,Fashion,USA
+408, Jessica Smith ,jessica.smith@example.com,2025-04-02,08-25-2024,268.0,Fashion,United States
+342,Christopher White,christopher.white@example.com,2023-13-40,2024/11/25,228.05,Fashion,uk
+030,Alan Yoder,alan.yoder@example.com,2025/03/05,2023-13-40,65.51,Fashion,france
+056,Timothy Patterson,timothypatterson@@example.com,10/02/2025,2023-13-40,303.61,Electronics,United States
+165,Mark Ball,mark.ball@example.com,2024/10/03,2025/02/14,139.58,Fashion,United Kingdom
+159,Kelsey Hunt,kelsey.hunt@example.com,2023-13-40,2024/07/24,392.61,Electronics,uk
+268,Tracey Marshall,tracey.marshall@example.com,11-10-2024,2025/01/22,437.18,Fashion,uk
+468,debbie davis,debbie.davis@example.com,2024/12/15,01-17-2025,67.85,electronics,uk
+488,Carlos Becker,carlos.becker@example.com,05-01-2025,2023-13-40,-49.43,Fashio,uk
+228,lisa crawford,lisa.crawford@example.com,2025/01/02,2025-01-01,117.87,Electronics,USA
+327,RAYMOND HUGHES,raymond.hughes@example.com,07-29-2024,03-06-2025,-41.48,Electronics,United Kingdom
+082,Richard Stewart DVM,richard.stewart.dvm@example.com,11-04-2024,15/07/2024,236.29,Electronics,France
+309,Diana English,diana.english@example.com,2025-06-24,10-28-2024,242.71,Electronics,usa
+209,Richard Keith,richard.keith@example.com,02-03-2025,2025-01-24,355.68,Home,USA
+427,courtney miller,courtneymiller@@example.com,19/10/2024,2024/12/02,220.8,Home,FRA
+391,Jerry Hardy,jerry.hardy@example.com,09/01/2025,2023-13-40,242.21,Home,United Kingdom
+455,William Carroll,william.carroll@example.com,2025/06/10,2023-13-40,405.24,Home,USA
+449,Jason Martinez,jason.martinez@example.com,2025-05-03,2025/04/17,189.17,Electronics,usa
+053,Christopher Jordan,christopher.jordan@example.com,2024-08-07,2024-07-30,147.47,Hom,uk
+034,Catherine Abbott,catherine.abbott@example.com,2023-13-40,2024-09-06,318.15,Fashion,USA
+319,Jason West,jason.west@example.com,2024/10/23,2024-11-18,322.23,Home,uk
+171, Robert Edwards ,robert.edwards@example.com,2025-06-11,03-10-2025,464.09,Electronics,france
+119,Barbara Wood,barbara.wood@example.com,04/03/2025,2025-06-05,137.61,Fashion,uk
+239,Jody Perez,jody.perez@example.com,2023-13-40,2024-07-22,399.48,electronics,USA
+132,ANTHONY GONZALES,anthony.gonzales@example.com,07-17-2024,06-23-2025,476.7,Electronics,France
+169,Nicole Mueller,nicole.mueller@example.com,08-22-2024,05-27-2025,464.44,Electronics,UK
+494,Timothy Cannon,timothy.cannon@example.com,01-22-2025,08-11-2024,211.47,Electronics,United States
+488,Susan Cooper,susan.cooper@example.com,2025-06-29,24/01/2025,336.17,fashion,United Kingdom
+001,JANET MURPHY,janetmurphy@@example.com,2024/11/28,12-31-2024,458.97,Electronics,uk
+028,Kevin Jackson,kevin.jackson@example.com,28/03/2025,,23.1,Electronics,France
+488,Dennis Nelson,dennis.nelson@example.com,11-07-2024,2025/02/17,103.76,Fashio,United Kingdom
+454,Anthony Reese,anthony.reese@example.com,2024/11/15,30/08/2024,434.27,Electronics,UK
+445,Brandon Brown,brandon.brown@example.com,2023-13-40,2025/06/30,355.81,Home,usa
+196,cody estrada,cody.estrada@example.com,06-30-2025,01/03/2025,298.43,Fashion,uk
+065,Tyler Martinez,tylermartinez@@example.com,16/09/2024,2025-05-04,212.09,Home,United States
+399, Chase Smith ,chase.smith@example.com,14/01/2025,2024/07/17,125.11,Home,UK
